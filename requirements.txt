@@ -1,0 +1,28 @@
+# FARM: Field-Aware Resolution Model
+# Python 3.10+ required
+
+# Core ML/Embeddings
+sentence-transformers>=2.2.0
+transformers>=4.35.0
+torch>=2.0.0
+datasets>=2.14.0
+
+# Vector Database
+qdrant-client>=1.7.0
+
+# LangChain / LangGraph (Agent Framework)
+langchain-core>=0.1.0
+langchain-ollama>=0.1.0
+langgraph>=0.0.40
+
+# Data Validation
+pydantic>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
+numpy>=1.24.0
+
+# Optional: For development
+# pytest>=7.0.0
+# black>=23.0.0
+# isort>=5.12.0

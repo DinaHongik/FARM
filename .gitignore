@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Qdrant local storage
+qdrant_data/
+rag/qdrant_data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ============================================
+# DATASETS (Available upon request)
+# ============================================
+# Training data
+data/iftttt_dataset_full_trigger_action.json
+data/train_applets.json
+
+# RAG corpus
+data/triggers_rag.json
+data/actions_rag.json
+
+# Test sets
+data/test/gold.json
+data/test/noisy.json
+data/test/oneshot.json
+
+# Analysis files
+data/category_analysis.json
+
+# ============================================
+# TRAINED MODELS (Can be retrained)
+# ============================================
+models/
+*.pt
+*.bin
+*.safetensors
+
+# ============================================
+# EVALUATION RESULTS (Can be regenerated)
+# ============================================
+results/*.json
+
+# ============================================
+# MISC
+# ============================================
+*.log
+.DS_Store
