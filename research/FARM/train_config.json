@@ -1,0 +1,16 @@
+{
+  "base_model": "google/embeddinggemma-300m",
+  "loss": "MultipleNegativesRankingLoss",
+  "scale": 20.0,
+  "batch_sampler": "NO_DUPLICATES",
+  "batch_size": 16,
+  "epochs": 3,
+  "learning_rate": 2e-05,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "max_seq_length": 512,
+  "precision": "fp32",
+  "seeds": [42, 1337, 7],
+  "_precision_note": "V100 sm_70 has fast fp16 and emulated bf16, but rag/config.py:42 records that EmbeddingGemma has no fp16 support. fp32 is what every prior number used, so it stays fixed and removes a variable from the comparison.",
+  "_sampler_note": "NO_DUPLICATES on the label url. The label space is 1823 trigger / 1388 action documents over 9700 rows, so the default random sampler puts a row's own gold in its batch as a negative in 42.6% / 56.3% of batches."
+}

@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "count": 100,
+  "source": "FARM Dataset-v2 test split, curated from IFTTT applets",
+  "source_sha256": "5e15596a8bf299b8788f99a34e997dd9b8ff385eecc7c69e944d05c0f42f22c9",
+  "selection": "SHA-256 order with salt farm-public-v2.0.0; round-robin sorted service pairs; exclude requests containing URLs, email addresses, long phone-like numbers or credential terms",
+  "examples_sha256": "f08e8c19686af00a1d425baf116a1e00f3bab710379bfd419d1d1e15f5512d03",
+  "schema_policy": "Include endpoint/field/ingredient metadata; omit example values, usage counts, source grouping IDs and all unselected applets. Unknown types remain null.",
+  "semantic_binding_gold_available": false,
+  "full_data_contact": "Young Yoon <young.yoon@hongik.ac.kr>"
+}

@@ -1,0 +1,3061 @@
+{
+  "version": "2.0.1",
+  "recovered_at": "2026-09-13",
+  "files": [
+    {
+      "path": "research/FARM/RecipeGen/data_collator.py",
+      "source": "workstation/FARM/RecipeGen/data_collator.py",
+      "source_sha256": "b5e2d9ff1c7934a3e27f06816ebdce41e62f6a5d5545043ef5eb7efc828aae15"
+    },
+    {
+      "path": "research/FARM/RecipeGen/gradio_app/app.py",
+      "source": "workstation/FARM/RecipeGen/gradio_app/app.py",
+      "source_sha256": "08779c96850ad6c06878c4b0e05ea90a8f6a54b756e8ac37dbc8b9696519b7e2"
+    },
+    {
+      "path": "research/FARM/RecipeGen/gradio_app/utils.py",
+      "source": "workstation/FARM/RecipeGen/gradio_app/utils.py",
+      "source_sha256": "c325f9e43373bd8f1ecbb7796c5489112a08ad1f8871f5106363373d5555e7a4"
+    },
+    {
+      "path": "research/FARM/RecipeGen/models.py",
+      "source": "workstation/FARM/RecipeGen/models.py",
+      "source_sha256": "671c26f9fe32a6af67d33c1c5ea648b36b7590247b88b59de49e9c99d903d258"
+    },
+    {
+      "path": "research/FARM/RecipeGen/requirements.txt",
+      "source": "workstation/FARM/RecipeGen/requirements.txt",
+      "source_sha256": "cfb17bdae793edf7b4673a6d2ef7dfd02f048dae5c420b61550c89949b180de0"
+    },
+    {
+      "path": "research/FARM/RecipeGen/train_merged_interactive.py",
+      "source": "workstation/FARM/RecipeGen/train_merged_interactive.py",
+      "source_sha256": "277be5fa93f4550139e0ef0f1d5c77a4ec3f705cfd71d5adb4473918a7dfede7"
+    },
+    {
+      "path": "research/FARM/RecipeGen/train_merged_oneshot.py",
+      "source": "workstation/FARM/RecipeGen/train_merged_oneshot.py",
+      "source_sha256": "c068d7685e49db484505b3d08a7f4764c3e0c08634aaa2cdc41ea7631f71cb23"
+    },
+    {
+      "path": "research/FARM/RecipeGen/trainer.py",
+      "source": "workstation/FARM/RecipeGen/trainer.py",
+      "source_sha256": "2add6559c91d3d7d88a3cf134eaa23c2d043b203d16b43c864d2d6b9bacb0911"
+    },
+    {
+      "path": "research/FARM/Targe/LICENSE",
+      "source": "workstation/FARM/Targe/LICENSE",
+      "source_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "research/FARM/Targe/libs/__init__.py",
+      "source": "workstation/FARM/Targe/libs/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/libs/finetuning/__init__.py",
+      "source": "workstation/FARM/Targe/libs/finetuning/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/libs/finetuning/train.py",
+      "source": "workstation/FARM/Targe/libs/finetuning/train.py",
+      "source_sha256": "62db6ad346ab7006483680c4329516ad9f648c801c57fa7d5b0c9d99e11f17ef"
+    },
+    {
+      "path": "research/FARM/Targe/libs/preprocessing/__init__.py",
+      "source": "workstation/FARM/Targe/libs/preprocessing/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/libs/preprocessing/utils.py",
+      "source": "workstation/FARM/Targe/libs/preprocessing/utils.py",
+      "source_sha256": "f37fdad3bd0fd53088a5dba34cf190a8380902b2c3f91c6fd8f4f47987210756"
+    },
+    {
+      "path": "research/FARM/Targe/libs/utils/__init__.py",
+      "source": "workstation/FARM/Targe/libs/utils/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/libs/utils/common.py",
+      "source": "workstation/FARM/Targe/libs/utils/common.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/requirements.txt",
+      "source": "workstation/FARM/Targe/requirements.txt",
+      "source_sha256": "cda130cf53b8d8727bae2e1de775e789be4cf33af4519257c0d5620932c03bb1"
+    },
+    {
+      "path": "research/FARM/Targe/src/__init__.py",
+      "source": "workstation/FARM/Targe/src/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/src/evaluate/__init__.py",
+      "source": "workstation/FARM/Targe/src/evaluate/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/src/evaluate/generate.py",
+      "source": "workstation/FARM/Targe/src/evaluate/generate.py",
+      "source_sha256": "c0debce1256fb8659752535ce1f7edeeff999349ab34598b0b833a6b58d13713"
+    },
+    {
+      "path": "research/FARM/Targe/src/preprocessing/__init__.py",
+      "source": "workstation/FARM/Targe/src/preprocessing/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/src/preprocessing/build_dataset.py",
+      "source": "workstation/FARM/Targe/src/preprocessing/build_dataset.py",
+      "source_sha256": "f150569c1d81c013d508d98abc7d01d36d260fd609f1c6f55ff4e287f8e75549"
+    },
+    {
+      "path": "research/FARM/Targe/src/preprocessing/build_embedder_dataset.py",
+      "source": "workstation/FARM/Targe/src/preprocessing/build_embedder_dataset.py",
+      "source_sha256": "aa5e6bad9a068754d168f147483807a59268f02ac007594831eea614eb043ae0"
+    },
+    {
+      "path": "research/FARM/Targe/src/preprocessing/compute_stats_dataset.py",
+      "source": "workstation/FARM/Targe/src/preprocessing/compute_stats_dataset.py",
+      "source_sha256": "dd5afa3dd7f356a3de55477d89cb4c3a9be602980f78652e12b2654a17b57cf1"
+    },
+    {
+      "path": "research/FARM/Targe/src/preprocessing/extract_service_list.py",
+      "source": "workstation/FARM/Targe/src/preprocessing/extract_service_list.py",
+      "source_sha256": "aa8c36b926720d7ffcbe0766ea907dc3bf5620e8e6e949e598c6e13c09359f5d"
+    },
+    {
+      "path": "research/FARM/Targe/src/preprocessing/scoring_dataset.py",
+      "source": "workstation/FARM/Targe/src/preprocessing/scoring_dataset.py",
+      "source_sha256": "a4f6b79dd8cd5fa63c05ad7907a0fcf426a2c56a8282b2cdb10c863ac0ae6243"
+    },
+    {
+      "path": "research/FARM/Targe/src/train/__init__.py",
+      "source": "workstation/FARM/Targe/src/train/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/Targe/src/train/train_classifier.py",
+      "source": "workstation/FARM/Targe/src/train/train_classifier.py",
+      "source_sha256": "f1c79100ab1110b2097f54af869dcaddff60a8bc1e574451bd939b97e95bbab5"
+    },
+    {
+      "path": "research/FARM/Targe/src/train/train_embedder.py",
+      "source": "workstation/FARM/Targe/src/train/train_embedder.py",
+      "source_sha256": "0f8ec71392e25b961a92bf076bca980a8e76a8c6dc744cde71043c9ab88c9a5e"
+    },
+    {
+      "path": "research/FARM/Targe/src/train/train_llm.py",
+      "source": "workstation/FARM/Targe/src/train/train_llm.py",
+      "source_sha256": "ee88376075c9ade08eadd61909f333b03be4b19c3ca8b0fe488aca8d5fc5228a"
+    },
+    {
+      "path": "research/FARM/agents/__init__.py",
+      "source": "workstation/FARM/agents/__init__.py",
+      "source_sha256": "7ec896115e3ad7e2b62e441b5eb726f679f2fad14dc63ef60740a04ef766b771"
+    },
+    {
+      "path": "research/FARM/agents/config.py",
+      "source": "workstation/FARM/agents/config.py",
+      "source_sha256": "211bab6a3328e76c78c014ff8d872c43f3662c2556f7fb102d326f2d144764b7"
+    },
+    {
+      "path": "research/FARM/agents/errors.py",
+      "source": "workstation/FARM/agents/errors.py",
+      "source_sha256": "068e8f0a5efb17115484aa56e0e1497d33ebb9886d8b97b46102dcf1a92c90cc"
+    },
+    {
+      "path": "research/FARM/agents/graph.py",
+      "source": "workstation/FARM/agents/graph.py",
+      "source_sha256": "0a6076be13338ce3902138e0d380eceed2d00889059d283d808d64efbada98fe"
+    },
+    {
+      "path": "research/FARM/agents/memory.py",
+      "source": "DGX/farm/agents/memory.py",
+      "source_sha256": "94bf8cac0a813f6d01dc65a1ca3b35159cb8e311ea6f18bcdf76383f871914c2"
+    },
+    {
+      "path": "research/FARM/agents/memory/__init__.py",
+      "source": "workstation/FARM/agents/memory/__init__.py",
+      "source_sha256": "b44b115d3f36bd0fbb4f99bf36d05925ec5dfac6944e4fe8c004702f9479000c"
+    },
+    {
+      "path": "research/FARM/agents/memory/checkpointer.py",
+      "source": "workstation/FARM/agents/memory/checkpointer.py",
+      "source_sha256": "b022cdbe97ae038e7771a0e22a3467f6c17caa0e6914ff92267d098384397df8"
+    },
+    {
+      "path": "research/FARM/agents/memory/icl_retriever.py",
+      "source": "workstation/FARM/agents/memory/icl_retriever.py",
+      "source_sha256": "d5919a23909511599f24e0a9afc4d5b63f13293f7d231b42d54f71d33ebbdd36"
+    },
+    {
+      "path": "research/FARM/agents/metrics.py",
+      "source": "workstation/FARM/agents/metrics.py",
+      "source_sha256": "457da25ed49cb3a11209ba014184c409912d388d54085ea8ed3ca8e44b029479"
+    },
+    {
+      "path": "research/FARM/agents/nodes/__init__.py",
+      "source": "workstation/FARM/agents/nodes/__init__.py",
+      "source_sha256": "6c3e5fa848679cffebc23fa6cd204502a5f342a26f6b3f529f06d8ff85282d3b"
+    },
+    {
+      "path": "research/FARM/agents/nodes/action_node.py",
+      "source": "workstation/FARM/agents/nodes/action_node.py",
+      "source_sha256": "bd274644b2e5bd52b154fe9705769542a108402c4173c664d38e71f40464fea6"
+    },
+    {
+      "path": "research/FARM/agents/nodes/action_selector.py",
+      "source": "workstation/FARM/agents/nodes/action_selector.py",
+      "source_sha256": "e7d9de7be0e0c19814970293b003ff0684103766161cf0baad20ef77162ce626"
+    },
+    {
+      "path": "research/FARM/agents/nodes/cross_scorer_node.py",
+      "source": "workstation/FARM/agents/nodes/cross_scorer_node.py",
+      "source_sha256": "ef75fc2181efee3835e816f4636640afea6f149c07c2fcd57cd529d86d1e9a23"
+    },
+    {
+      "path": "research/FARM/agents/nodes/fallback.py",
+      "source": "workstation/FARM/agents/nodes/fallback.py",
+      "source_sha256": "2aad8c5ad5ea3f1137cdf78f6c2e3e393292b6a354a6bc501c616ab4e98eb3c9"
+    },
+    {
+      "path": "research/FARM/agents/nodes/load_candidates.py",
+      "source": "workstation/FARM/agents/nodes/load_candidates.py",
+      "source_sha256": "fb84e5830c808039d9bb5bcad6d512358fb837befe88df1bf47ffe8dd153b950"
+    },
+    {
+      "path": "research/FARM/agents/nodes/output_parser.py",
+      "source": "workstation/FARM/agents/nodes/output_parser.py",
+      "source_sha256": "86f88d40380d69d89eff2bc9144683cb295e84ccaba44feef02fab931012266d"
+    },
+    {
+      "path": "research/FARM/agents/nodes/planner_node.py",
+      "source": "workstation/FARM/agents/nodes/planner_node.py",
+      "source_sha256": "7e9ad8f0916d02f766d917784cae86d07acc05f09cfdaea24b8abcf6260e7002"
+    },
+    {
+      "path": "research/FARM/agents/nodes/trigger_node.py",
+      "source": "workstation/FARM/agents/nodes/trigger_node.py",
+      "source_sha256": "61611025234ad5b8d4f4153e2150c4134e92eded5038f1128baef07d8061cbae"
+    },
+    {
+      "path": "research/FARM/agents/nodes/trigger_selector.py",
+      "source": "workstation/FARM/agents/nodes/trigger_selector.py",
+      "source_sha256": "dd7048947e129571df24ac297205bfc36cbcc186843ac0aa6631f2b09923136c"
+    },
+    {
+      "path": "research/FARM/agents/nodes/verifier_node.py",
+      "source": "workstation/FARM/agents/nodes/verifier_node.py",
+      "source_sha256": "f6ee40cc4dfc561c261ed7f12058b21b1a4a9849a5ec9e45b886f8c7e25543a9"
+    },
+    {
+      "path": "research/FARM/agents/prompts/__init__.py",
+      "source": "workstation/FARM/agents/prompts/__init__.py",
+      "source_sha256": "a041135f2006d163947ffc3aa14438463b4a2de1faf431ec5e4d52388de9196e"
+    },
+    {
+      "path": "research/FARM/agents/prompts/action_agent.py",
+      "source": "workstation/FARM/agents/prompts/action_agent.py",
+      "source_sha256": "ba6a9b7dd11be0c3da6d008ea663a05b1bd8d1010dc4ba6a12fe2bb1af8a4ee8"
+    },
+    {
+      "path": "research/FARM/agents/prompts/planner.py",
+      "source": "workstation/FARM/agents/prompts/planner.py",
+      "source_sha256": "db752559926dc0379241dfbbe56ffaa2c152ca10b3b9ff2cc069355a354dfb6f"
+    },
+    {
+      "path": "research/FARM/agents/prompts/trigger_agent.py",
+      "source": "workstation/FARM/agents/prompts/trigger_agent.py",
+      "source_sha256": "ebc41ae850aa0de9f7a1d7ebe2b822f5866e0475c607cb1f511a876ef71f6ab1"
+    },
+    {
+      "path": "research/FARM/agents/prompts/verifier.py",
+      "source": "workstation/FARM/agents/prompts/verifier.py",
+      "source_sha256": "498a431b14c65b32815237182670b96f037d15fa6ceeaa8837c30d249acc5579"
+    },
+    {
+      "path": "research/FARM/agents/run.py",
+      "source": "workstation/FARM/agents/run.py",
+      "source_sha256": "8c25ab7db221ace2bf9dcac6fbf67cdc575b4a884a83bbccae74a0d7b644c406"
+    },
+    {
+      "path": "research/FARM/agents/schemas.py",
+      "source": "workstation/FARM/agents/schemas.py",
+      "source_sha256": "5d00375a6feac4e49f46be497232b1a7ced2bfb221200366fcb881c56f0395c4"
+    },
+    {
+      "path": "research/FARM/agents/state.py",
+      "source": "workstation/FARM/agents/state.py",
+      "source_sha256": "0676b7607218cdae183e90f2a7225dc71f8f55e748abad79bfbfc40df3a98f60"
+    },
+    {
+      "path": "research/FARM/agents/tests/__init__.py",
+      "source": "workstation/FARM/agents/tests/__init__.py",
+      "source_sha256": "e528e7395ca941d5e48fbb31ccc50f4f3d2f06da591014fc51a582dcca4a967d"
+    },
+    {
+      "path": "research/FARM/agents/tests/test_e2e.py",
+      "source": "workstation/FARM/agents/tests/test_e2e.py",
+      "source_sha256": "dd15ce1a6c7b400bce1d19993ecc9e5b5baeace488d47b672dd2cc4b240dee3f"
+    },
+    {
+      "path": "research/FARM/agents/tests/test_nodes.py",
+      "source": "workstation/FARM/agents/tests/test_nodes.py",
+      "source_sha256": "f4c3b75278a1858bf52c733ff4f8f01b38d2baac12ac1f17acc1a88aec06533e"
+    },
+    {
+      "path": "research/FARM/agents/tests/test_prompts.py",
+      "source": "workstation/FARM/agents/tests/test_prompts.py",
+      "source_sha256": "7199118526ed49aa68ef7cb4de0116fef146a1409cfe5d617116008d5414a395"
+    },
+    {
+      "path": "research/FARM/agents/tools/__init__.py",
+      "source": "workstation/FARM/agents/tools/__init__.py",
+      "source_sha256": "3760c5033a10e72af3fe978b099d8f9a77ed372afc0ce27d060decd35ad4bcb9"
+    },
+    {
+      "path": "research/FARM/agents/tools/definitions.py",
+      "source": "workstation/FARM/agents/tools/definitions.py",
+      "source_sha256": "396e9c677d888a5f64699c994f36d12fbe36bc466bdabc6936af2cbabfb1a0d0"
+    },
+    {
+      "path": "research/FARM/agents/tools/executors.py",
+      "source": "workstation/FARM/agents/tools/executors.py",
+      "source_sha256": "8784bffb4c00e035270960230a99d58a523aac2c9d812c24b0b5f76d50b281d1"
+    },
+    {
+      "path": "research/FARM/bench_f2_verify.py",
+      "source": "DGX/farm/bench_f2_verify.py",
+      "source_sha256": "d4a5d2c74ce9d9cb49f4a63f41d5ba30e0bcc29afc654c9e0f42dfd21dc97278"
+    },
+    {
+      "path": "research/FARM/build_clean_split.py",
+      "source": "DGX/farm/build_clean_split.py",
+      "source_sha256": "5a512825bd71f5624ba174c4f4bdc694f7b414a031eeeca84bb6ef460ba00978"
+    },
+    {
+      "path": "research/FARM/build_corpus.py",
+      "source": "workstation/FARM/build_corpus.py",
+      "source_sha256": "3a6779d90d0852081e17cbd64021cbe5cce86122aafb6ad913bcc713e20af576"
+    },
+    {
+      "path": "research/FARM/build_dataset_v2.py",
+      "source": "workstation/FARM/build_dataset_v2.py",
+      "source_sha256": "13c5d6a5734140b926ffa6e5a9fd489dc2ba1b7405667c3035b97779e868219c"
+    },
+    {
+      "path": "research/FARM/build_pairs.py",
+      "source": "DGX/farm/build_pairs.py",
+      "source_sha256": "f4b1d68f797f1287318cf5e850766226397965fc4ab5411d77d5a3067f633832"
+    },
+    {
+      "path": "research/FARM/build_split.py",
+      "source": "workstation/FARM/build_split.py",
+      "source_sha256": "c8914171a861bd4007052e601643e89dbca19e40c5812cfdd34f867391ed7efe"
+    },
+    {
+      "path": "research/FARM/check_dataset_v2.py",
+      "source": "workstation/FARM/check_dataset_v2.py",
+      "source_sha256": "acebb8206d282fa90fa087ce34675b3bf9599d0dd87abd9a15e8cc56d936dc0c"
+    },
+    {
+      "path": "research/FARM/check_qdrant.py",
+      "source": "workstation/FARM/check_qdrant.py",
+      "source_sha256": "66da5221253c94482b7002c9572a8da561b1457ee176a779ceb974915b45d620"
+    },
+    {
+      "path": "research/FARM/check_split.py",
+      "source": "workstation/FARM/check_split.py",
+      "source_sha256": "cb5c05887e0cf4a2719f5801224a9c1b83f674f04f6566768e0f7334cf54505f"
+    },
+    {
+      "path": "research/FARM/clean_baseline.py",
+      "source": "DGX/farm/clean_baseline.py",
+      "source_sha256": "5482e6abf7532e18d20747cc104d76ebbcb33b5915feb594e4bcb2d1d0c1042b"
+    },
+    {
+      "path": "research/FARM/clustering/cluster_exploration.py",
+      "source": "workstation/FARM/clustering/cluster_exploration.py",
+      "source_sha256": "6949c13d6a4c8d6f2a39f36a46434c91507c3994934c18482c76644a0362545c"
+    },
+    {
+      "path": "research/FARM/clustering/requirements.txt",
+      "source": "workstation/FARM/clustering/requirements.txt",
+      "source_sha256": "f94f2a3e144f38abddb954de5ddaa14b15e3cc6dab9dc919995bb693377afef7"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/check_fresh_launch.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/check_fresh_launch.py",
+      "source_sha256": "9571782222131c7b624a93277784adc0cbeab3382aee0fbb23ddef4d22aad533"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/evaluate.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/evaluate.py",
+      "source_sha256": "5b15bff163bd34993f2d2ef1b5e65df746b700eff24f33b5a6b91448deb13a61"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/experiment_lib.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/experiment_lib.py",
+      "source_sha256": "99592a8e4eb166da8978108674a8c8ce4ff5c3a48db3cb35c75be3101ef2e907"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/generate_checksums.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/generate_checksums.py",
+      "source_sha256": "07b2abc3987cfac50a76e86c8746c69779e98c8a80fd38f4e36c59cfb4712501"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/launch_pipeline.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/launch_pipeline.py",
+      "source_sha256": "058a7f02edb64a56d597a26fa60dc4fa93f94b2bd75d82d6c6ff5e3a4dfe8ff8"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/ollama_baseline.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/ollama_baseline.py",
+      "source_sha256": "a868219ee08d371c37bf33eb2a0f7cc0bfe4885ec80bc212223782cf571eb616"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/prepare_agent_candidates.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/prepare_agent_candidates.py",
+      "source_sha256": "92ec3e42352e93965b721fb92139a74c40d54508e75e1f53f50fe7aab789ea75"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/prepare_data.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/prepare_data.py",
+      "source_sha256": "814d7489fab8864daf9d75a2cfcf66e5f3c6ad7d83f52a932563f3c5867cb43f"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/status.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/status.py",
+      "source_sha256": "ed3c18ed2f3f76b6ec6b59dcb3b45ecc3be2282bc0ff68904e7bcb5d6eca82a2"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/summarize_smokes.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/summarize_smokes.py",
+      "source_sha256": "4b3d1d3eeae19430b1bb6cb324bb0b9f3e4bf72717a43954a519bcc678507a28"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/train_one.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/train_one.py",
+      "source_sha256": "76887a0e66d72fb9c148b583ce0daca7d9ee74f5e873e5b48bc1d619d260032b"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/scripts/verify_pipeline.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/scripts/verify_pipeline.py",
+      "source_sha256": "055516389c89e5d3a12e8dc9501a79cb78aa54ce595508706780e0afbc048450"
+    },
+    {
+      "path": "research/FARM/experiments/20260831T171222Z-farm-four-pipelines/tests/test_experiment.py",
+      "source": "DGX/farm/experiments/20260831T171222Z-farm-four-pipelines/tests/test_experiment.py",
+      "source_sha256": "88471fc9f563908ecb6a0343963934fa73ee445d58dbf3464a21ea0468dd684c"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/agent_compare.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/agent_compare.py",
+      "source_sha256": "7dd3ca465d7ce1f57b240a21de578e7765dbcca39cae4d2e2fa04cab3997265a"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/agent_status.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/agent_status.py",
+      "source_sha256": "967d4a4363370c720a56b8c81e89ed65d97e64bd908e869e38b8b148bdc43997"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/calibrate_router.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/calibrate_router.py",
+      "source_sha256": "62dd35b98ba649bb3a5e2464c8bc11a02d590c66aff0b110336b95511eb48909"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/check_fresh_launch.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/check_fresh_launch.py",
+      "source_sha256": "adb6c0f107655f43d840b36d518d8af59c884976b570824a653837723ac547ef"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/evaluate.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/evaluate.py",
+      "source_sha256": "5b15bff163bd34993f2d2ef1b5e65df746b700eff24f33b5a6b91448deb13a61"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/experiment_lib.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/experiment_lib.py",
+      "source_sha256": "9afcacc78f5f0c01086cee1ec27589bae7541da6234e01972b579b102b0fba5b"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/generate_checksums.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/generate_checksums.py",
+      "source_sha256": "07b2abc3987cfac50a76e86c8746c69779e98c8a80fd38f4e36c59cfb4712501"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/launch_pipeline.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/launch_pipeline.py",
+      "source_sha256": "2f2b649c88bc660f6dbaec80ee2f836ecfb5afc433d73d5d3ac547de3035e891"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/prepare_agent_candidates.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/prepare_agent_candidates.py",
+      "source_sha256": "3a58b3bc7adb14fce8ad2d50c79291790af281d85936c19793fc4f791eb35954"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/prepare_random_negatives.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/prepare_random_negatives.py",
+      "source_sha256": "2f868d7f670531c4ee045d0c8315293406a0af66720838a8fdbb5c6f0124d183"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/sample_candidates.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/sample_candidates.py",
+      "source_sha256": "53da033c879e8564a25ba5f16ef1f0263797930413107f4b3abb2b036b152d7b"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/status.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/status.py",
+      "source_sha256": "38b44a20d5825988102e3717b1a3878bd7dbf47d510333c8db04402ff51a3f15"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/summarize_smokes.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/summarize_smokes.py",
+      "source_sha256": "a62cd6663c48e93b540b43d965da4c71453b0660580041a914b6487f9cbbac36"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/train_one.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/train_one.py",
+      "source_sha256": "4161a90f6b5bfb8564908d342033701b58501af9c84fd335607388277595bd62"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/validate_agent_smokes.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/validate_agent_smokes.py",
+      "source_sha256": "1d20a76dcf4369072c56b4bc9eb7b5428ce97e66099eb54facda3e047b5e6749"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/verify_pipeline.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/scripts/verify_pipeline.py",
+      "source_sha256": "e777526c0d524f9edc40eaa8cc28b802857a17164173739d9b6ac8542cd94af1"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T041548Z-farm-round2-agentic/tests/test_experiment.py",
+      "source": "workstation/FARM/experiments/20260901T041548Z-farm-round2-agentic/tests/test_experiment.py",
+      "source_sha256": "15818b5cccbce077f72a3b5e68e13768d0a604e36ead5dacd62b212305152dc2"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/diagnostics/probe_ollama_openai_compat.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/diagnostics/probe_ollama_openai_compat.py",
+      "source_sha256": "46f6771687c1505c9595a0a55f2308bc6fe4ac5015da8ac8782e78947692d661"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/diagnostics/probe_ollama_protocol.py",
+      "source": "workstation/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/diagnostics/probe_ollama_protocol.py",
+      "source_sha256": "a5cf8496af6f4541c9b7249873986be05b646f8ed7ccad2b3405c913e2fcdac3"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/diagnostics/replay_agent_failures.py",
+      "source": "workstation/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/diagnostics/replay_agent_failures.py",
+      "source_sha256": "e708f4bb550610a5e7669d457ec04e67067e617cafd4d0b5d0c9a9787547c739"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/adaptive_agent.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/adaptive_agent.py",
+      "source_sha256": "9207515c84a7edcfe96cc09dc1a7c5c493a1edacb119c8de161692024b464060"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/agent_supervisor.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/agent_supervisor.py",
+      "source_sha256": "09712771ffca27924eb8301b3280b1405ae23d732cbfcb0dc24ad2afe4ad1009"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/build_rrf_lattice.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/build_rrf_lattice.py",
+      "source_sha256": "56c7e5ef6ed331bc91f0ca367d56540fc62f78a03292b65075504c69f2b43845"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/build_service_lattice.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/build_service_lattice.py",
+      "source_sha256": "667fa7fd0d67c03168725ee879ff3069d0959ea949a6532ab8d0658f238d570b"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/calibrate_router.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/calibrate_router.py",
+      "source_sha256": "30425f1655595566c061acdd575249464e55de8bf86384e453491858fcf5b738"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/crossencoder_smoke.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/crossencoder_smoke.py",
+      "source_sha256": "b2092cf4b8a3771aea24ec3e66ad76273ad82ecbe02c67b2234b5bde23c58e2d"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/experiment_core.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/experiment_core.py",
+      "source_sha256": "86e546448a8623e6eafb043d363a0e95b99cc6b1f7df73aecdc44620e8b13f95"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/gpu_supervisor.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/gpu_supervisor.py",
+      "source_sha256": "bab613822510a39dd599730c5e7635af6181ffab92c45989e47b8ab0710c2829"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/launch_status.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/launch_status.py",
+      "source_sha256": "9dbc65270a59f781504317d6ae1f1cd5da4bbbb3ae6d7d8ab27120323da91733"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/prepare_agent_smoke.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/prepare_agent_smoke.py",
+      "source_sha256": "8a258fcec1d89c58f532ffa620c3a3f8c32fbbda76e9adcf384fa5f9f9222975"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/ragas_adapter.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/ragas_adapter.py",
+      "source_sha256": "b61c75935264f679b33ea2e935cdb86d9550593beceacb5c7f2a59f19b44a7c7"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/record_source_trees.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/record_source_trees.py",
+      "source_sha256": "cc1e14b12765302203780602d2b5286c27382d9a25787d6e3821602fc046968b"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/run_agent_experiment.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/run_agent_experiment.py",
+      "source_sha256": "bce5dd3ba7eb316009626a07fd085dfd9ecbafeed2f161eb7137be10560d5da7"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/summarize_ragas.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/summarize_ragas.py",
+      "source_sha256": "36e25b3cd44ecd38a94365ab3124e4787c6267255b05607008ed7e3ae268c352"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/train_reranker.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/scripts/train_reranker.py",
+      "source_sha256": "77fab1d3a9e3ec901beb89e28d58d4243d4717424f9ee55dc32957e94d46e794"
+    },
+    {
+      "path": "research/FARM/experiments/20260901T155711Z-farm-round3-adaptive-agent/tests/test_round3_contracts.py",
+      "source": "DGX/farm/experiments/20260901T155711Z-farm-round3-adaptive-agent/tests/test_round3_contracts.py",
+      "source_sha256": "1fbbe7db4295ee969182ca4d39eb8f0f4824fec5557f5fc0b3f493944f2c18a9"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/diagnostics/probe_gemma_reasoning.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/diagnostics/probe_gemma_reasoning.py",
+      "source_sha256": "57e94e335e8a009c18eefcceb5b70bba80359a31b1ced8a8fc803206314d3cc2"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/scripts/agent_metrics.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/scripts/agent_metrics.py",
+      "source_sha256": "1bbe0fbd333ae3dbb7cf68793a55681a30fe76a111fa224edb7a037e16d866ac"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/scripts/agent_supervisor.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/scripts/agent_supervisor.py",
+      "source_sha256": "c3d3652ad5b08ef4890dc0f09be313047230d051a1f4376a882dca18e2fe979a"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/scripts/analyze_selective_router.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/scripts/analyze_selective_router.py",
+      "source_sha256": "bbaf1c4ee6094be48c05b11b4beddef66a4ade7efb3f509df2f4c9d009794837"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/scripts/ollama_adapter.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/scripts/ollama_adapter.py",
+      "source_sha256": "9964984f489879c473f8b5b55757b82bcb9cd2ca58b965e8308d9ab2640db1b6"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/scripts/resolver.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/scripts/resolver.py",
+      "source_sha256": "b3bb8ee9d77433e4403418350eb4ee458682d5440130f40e1e618dd99261f86f"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/scripts/run_round4.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/scripts/run_round4.py",
+      "source_sha256": "0c083d8e9ae891eb417b993b00ca67e6d0b1308fe1f7bd2ea2bbbc666a1f1089"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/scripts/summarize_round4.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/scripts/summarize_round4.py",
+      "source_sha256": "c721169c3369a1565d179ec46114619c1b9f5b5fbeda1033b9964aa663dd887a"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_agent_metrics.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_agent_metrics.py",
+      "source_sha256": "f5740ac4eb3fd9b37542f4e795485349b7cf5e12dc2d4ad4eac25fbcd0ddae02"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_ollama_adapter.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_ollama_adapter.py",
+      "source_sha256": "d69888e8ad59ba407b522a793d073a1fd7c2f38a7c6f6bfef92ad9a97224c935"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_resolver.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_resolver.py",
+      "source_sha256": "a1c155e0b5f3dabe1d3813130dec96391a5c910455fe8f28f9ecc578c6992169"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_run_round4.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_run_round4.py",
+      "source_sha256": "7c98c31b429cbb06a751078ccf42f393c05a330427262e7fad598f0f1744fb38"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_selective_router_analysis.py",
+      "source": "DGX/farm/experiments/20260902T015148Z-farm-round4-agent-only/tests/test_selective_router_analysis.py",
+      "source_sha256": "e40eba3c1e6f1467addd61c918cf42d878eb9c59a050626a279f68b52af53ed1"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/ollama_pair_adapter.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/ollama_pair_adapter.py",
+      "source_sha256": "1d0ffeb9308c72295d4b7c422f884418b0bb12c9dce0cb34c9738d7e6a546256"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/pair_card_policy.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/pair_card_policy.py",
+      "source_sha256": "49a5cbda9fc73d0283d72c1281e0f17245468eca89a6345937ee8a785e638895"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/run_round5_agent.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/run_round5_agent.py",
+      "source_sha256": "7f5a3a83fa6f6539150b1e1d16922d1f83e8bdf3a6bc12b24bc2b7b07a3c6ec0"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/train_round5.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/train_round5.py",
+      "source_sha256": "96b876484a448ad55e759786a3345c6ce9f3f9a546c1f514b8bcfe3dc307b2df"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/verify_launch.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/scripts/verify_launch.py",
+      "source_sha256": "25c99ddcc24f4913632034b0a1e853458716978d7dd2f1f3fbaa15b6b825b651",
+      "release_sha256": "e5814434351d8a6826a0a0d3441a778bc54294eb713376ce20fb8353ee2df72a",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_launch_contracts.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_launch_contracts.py",
+      "source_sha256": "8e206415e68fab2bd6acf7a217734de471f5a3455076df3d5f8b7713f1316591"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_ollama_pair_adapter.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_ollama_pair_adapter.py",
+      "source_sha256": "2d3d062d27c54771c64e31708e0d8dc7c261c3a083d6b922fb04e6ed7f9d6d9f"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_pair_card_policy.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_pair_card_policy.py",
+      "source_sha256": "0619ffdfafd041e6c2bc8a017534cfb39bb77d12bcf9dc66ebc4e64ab7f34677"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_round5_agent_runtime.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_round5_agent_runtime.py",
+      "source_sha256": "fdba53a70f981b72a1dac3501b9bab0ac0badd184113f44ca4d5eeb30941437b"
+    },
+    {
+      "path": "research/FARM/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_train_round5.py",
+      "source": "DGX/farm/experiments/20260902T042236Z-farm-round5-selective-verifier/tests/test_train_round5.py",
+      "source_sha256": "f6913648fc04fb1348845a703c0c022f7eb07345955b9e10ef8e2ad7ef618ecb"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/frozen_router.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/frozen_router.py",
+      "source_sha256": "395f05f17ad4b96db0737e0a61eb1dc84ca81288449dead054c51405d497d6eb"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/ollama_round6_adapter.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/ollama_round6_adapter.py",
+      "source_sha256": "9d156a29fe6fe83ae375403cde943074c66cf142f18d3d9bd019db0e5f91e779"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/run_round6_agent.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/run_round6_agent.py",
+      "source_sha256": "2ba342f51cbfe30cb33fb50ee0448aac746f3713b0d60e65825e0877fb1fe8e7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/safe_pair_policy.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/safe_pair_policy.py",
+      "source_sha256": "a763d55eec7ab0a287cc056aece7189fe7d5fcb0df53dcca12a65d8c57e00a31"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/train_safe_override.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/train_safe_override.py",
+      "source_sha256": "af339871c52cc8340289decca200f2aeb611649ab6fb8e3f25ac5ee3a81046ad"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/verify_launch.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/scripts/verify_launch.py",
+      "source_sha256": "9b1c1f14ed83b9a2f0b2585e4b42ac2ffc7643815d03ee9bf72e3d6ca34dfbe2",
+      "release_sha256": "e2da5196f03643ca13b039a6ab64d4f36a64e22d619c21c10179bf40516a8f72",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/tests/test_frozen_router.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/tests/test_frozen_router.py",
+      "source_sha256": "a67a56d811435bca90fae86967e11a84bfc83c3bdae5daa00c78f7f563b165a1"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/tests/test_matrix_contract.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/tests/test_matrix_contract.py",
+      "source_sha256": "62d69c8d9ae5b4c46fc7e8fe7f4af9d8e14d3ff2d89e142892ae882d3dd61f57"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/tests/test_safe_override_training.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/tests/test_safe_override_training.py",
+      "source_sha256": "2ac12f2062ad18094db23b9d022c595bdde1ec896520772b53fa381931066aa7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T043613Z-farm-round6-safe-agent/tests/test_safe_pair_policy.py",
+      "source": "DGX/farm/experiments/20260904T043613Z-farm-round6-safe-agent/tests/test_safe_pair_policy.py",
+      "source_sha256": "827e257770de1c7dfbd8e584c1ce9352bdabda83478e511006f68ff0bb410151"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/aggregate_round7.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/aggregate_round7.py",
+      "source_sha256": "05da2dd314a2ea91bd2d0468493fc7f0e417e0c269999da29f5d8500c386a5d4"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/constraint_agent.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/constraint_agent.py",
+      "source_sha256": "87948b61cc13baf90f2dd0985edb91b64730251cde793551d4595c3f4a19460e"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/ollama_constraint_adapter.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/ollama_constraint_adapter.py",
+      "source_sha256": "4d85676c8d5ce8bf289516e571880d8725f19796c0f721940872573bc08eb223"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/run_round7_agent.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/run_round7_agent.py",
+      "source_sha256": "d8bb13ff155f62db5e4c9e95bab7ff8e313f2b31c0230d7e42a2af47bb626b77"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/train_side_router.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/scripts/train_side_router.py",
+      "source_sha256": "f7e157b4eea01d59724ba93da16ecd75e0675d0efdd1fc1d25789de2eaf60bc7",
+      "release_sha256": "5a4c51ad31ad4d5307506c284c4ac0202666bc10fe3fd0ccaacc30fddf24fa88",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/__init__.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/__init__.py",
+      "source_sha256": "bd9e90ca6541b429637f4673f16a44a3dec2d81f0bfdc21bbe5b16548731fa2f"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/audit_targe_release.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/audit_targe_release.py",
+      "source_sha256": "af3eaf567029affa50c9f19632b62064bc3b0e8aed56b78dd1f4ef8c40dd76a0"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/evaluate_targe_rankings.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/evaluate_targe_rankings.py",
+      "source_sha256": "fe40d61b85451f16e3e348b2d4b1f836e41de1b1609af8c867bd5519ad7c8f9c"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/evaluator.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/evaluator.py",
+      "source_sha256": "ddc50a3a83fb867a0c391b1df762b5e7aec4bea3c208bdddd1f3f9b513d94f67"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/tests/test_targe_benchmark.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/targe_benchmark/tests/test_targe_benchmark.py",
+      "source_sha256": "a0c217914f607333475b725941c818406e20b03e7d6700e8c660ef2bb7b07411"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_aggregate_round7.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_aggregate_round7.py",
+      "source_sha256": "afb196bc4951e4c5139595c1fd1d790f335a6f85df8bdab93b7012380f29bdff"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_constraint_agent.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_constraint_agent.py",
+      "source_sha256": "522897e74e1ebc3294a5536f5e72333bfc2184170c103405cb457c7b8f278a81"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_ollama_constraint_adapter.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_ollama_constraint_adapter.py",
+      "source_sha256": "6fb954860009a8bd86064d5877fe028537671b88c23fda3fff262d4a7c285dd0"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_round7_runner.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_round7_runner.py",
+      "source_sha256": "2c393211b62157bb221e96e8e8d0e54b8884a2536a19eee55bcd0f143663510a",
+      "release_sha256": "65bcad94998b0c9882fee15de81ca83b41b23d75a3af43eda632f86c9d7b4b21",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_side_router.py",
+      "source": "DGX/farm/experiments/20260904T065450Z-farm-round7-constraint-agent/tests/test_side_router.py",
+      "source_sha256": "e4ecc6689f1709d67fa930f3d2025e99726064ea2ccb1fa68606bce971fbf411",
+      "release_sha256": "70261d53b10e0c90d674f7e7794f4266411c41bd3b660d840f805a17e3016688",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/aggregate_round8.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/aggregate_round8.py",
+      "source_sha256": "7e84e3d1ffde22e7bbf214daeee8a0d9d68f50a0c8524d27bc7441d527940244"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/dspy_executable_agent.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/dspy_executable_agent.py",
+      "source_sha256": "113df024030b426375a5ee563f8eb2e7f704c0435e82d91088c1500ffd9aa024"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/executable_applet.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/executable_applet.py",
+      "source_sha256": "ac24454af51928b7a8c5f2b8e754f4ba28325fbc60c277ae248e2fe7d5f6391c"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/frozen_router.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/frozen_router.py",
+      "source_sha256": "b848670b611e314b02669bfb1c0b39cf0613c05d474469de3d76e1b8f1a65fe7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/launch_round8.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/launch_round8.py",
+      "source_sha256": "cc265d296e93f345b46af1095c212ec643630c2a4b24258f9dc61983e9907840"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/launch_round8_local.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/launch_round8_local.py",
+      "source_sha256": "6e2df490f09d0613218e120af6c4884b0df6e39828de1c8c75f2a94a0c274eca"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/probe_ollama_tool_models.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/probe_ollama_tool_models.py",
+      "source_sha256": "cbe606efc0f62719c13c25fd6fe322e7588adb029def9122daeeb62a3a131d9e"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/run_local_ollama_server.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/run_local_ollama_server.py",
+      "source_sha256": "848d7676aea3146beb69052495fdc33432d49149c1b6e24998112f18b9eca4fd"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/run_round8.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/run_round8.py",
+      "source_sha256": "530f668769fe5cb5359cdfae2d267fa3b2006dcce5f9b6bde3fba3309b2cb6c2"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/run_round8_job.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/run_round8_job.py",
+      "source_sha256": "a3fa50abef6aa7e9ef4e1c4aa1ac1adf341c6b988f68cb39c2de2fc2f788f202"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/run_round8_local_job.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/run_round8_local_job.py",
+      "source_sha256": "0275b9e7df9ea7f3f18ac86c56da15e14a6fe9044001915427f5d8a2b2cea683"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/sync_round8_code.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/sync_round8_code.py",
+      "source_sha256": "c5dd0826fdbbd8095335880b5d71e8c1ec10edd0d4d1cfd0495af230446b4887"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/verify_round8.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/verify_round8.py",
+      "source_sha256": "c8d606c28019be7c11409a82149d9e2cc651151196d6939cf560b8b075b6e3b7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/verify_round8_local.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/scripts/verify_round8_local.py",
+      "source_sha256": "d42691260bc66e790be68967a5c6aa3d034b08c8f20013960659052f4e537109"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_aggregate_round8.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_aggregate_round8.py",
+      "source_sha256": "2fa985e2cc94f75225d221f857d9acfbd940d4be0f06a41f20d29f9d79926526"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_dspy_executable_agent.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_dspy_executable_agent.py",
+      "source_sha256": "27507c1fd4120d518c1636de00c369bab22885978d120674637e02af1527ea36"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_executable_applet.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_executable_applet.py",
+      "source_sha256": "8036a77cf2163dab1eeed9dd5ecfb61b99f0f121cfde36b329ed92a602f6bc8d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_probe_ollama_tool_models.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_probe_ollama_tool_models.py",
+      "source_sha256": "fa5b23c50b11e0f5bd7e3fc9f1c4db85558fcf2e180cb994668b77a810e9ad50"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_round8_local_ops.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_round8_local_ops.py",
+      "source_sha256": "b17803532f4aa3f2a6946be5d1b357aae1e2ac083ea464ec848a26508993d5dd",
+      "release_sha256": "db5b1a6f875700afce5c5c91da8d3dbafd165c1d45f49bae9a9ed083ecebe05f",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_round8_ops.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_round8_ops.py",
+      "source_sha256": "89f89b92f0b22a6d1f380bb227f56696b8d7b598abef9ed8fdd97261c6e7bae6",
+      "release_sha256": "2e35456cf50e2457d89750d1b9f3b28f840c9ad026017c136f95642307669c54",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_run_round8.py",
+      "source": "DGX/farm/experiments/20260904T074517Z-farm-round8-executable-agent/tests/test_run_round8.py",
+      "source_sha256": "2b0e353ac145731124d42ad8a42c5f81350cb8a9102adb87f4323123de2b5838"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/aggregate_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/aggregate_round8.py",
+      "source_sha256": "7e84e3d1ffde22e7bbf214daeee8a0d9d68f50a0c8524d27bc7441d527940244"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/dspy_executable_agent.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/dspy_executable_agent.py",
+      "source_sha256": "113df024030b426375a5ee563f8eb2e7f704c0435e82d91088c1500ffd9aa024"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/executable_applet.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/executable_applet.py",
+      "source_sha256": "ac24454af51928b7a8c5f2b8e754f4ba28325fbc60c277ae248e2fe7d5f6391c"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/frozen_router.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/frozen_router.py",
+      "source_sha256": "b848670b611e314b02669bfb1c0b39cf0613c05d474469de3d76e1b8f1a65fe7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/launch_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/launch_round8.py",
+      "source_sha256": "cc265d296e93f345b46af1095c212ec643630c2a4b24258f9dc61983e9907840"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/launch_round8_local.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/launch_round8_local.py",
+      "source_sha256": "6e2df490f09d0613218e120af6c4884b0df6e39828de1c8c75f2a94a0c274eca"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/probe_ollama_tool_models.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/probe_ollama_tool_models.py",
+      "source_sha256": "cbe606efc0f62719c13c25fd6fe322e7588adb029def9122daeeb62a3a131d9e"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/run_local_ollama_server.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/run_local_ollama_server.py",
+      "source_sha256": "848d7676aea3146beb69052495fdc33432d49149c1b6e24998112f18b9eca4fd"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/run_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/run_round8.py",
+      "source_sha256": "530f668769fe5cb5359cdfae2d267fa3b2006dcce5f9b6bde3fba3309b2cb6c2"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/run_round8_job.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/run_round8_job.py",
+      "source_sha256": "a3fa50abef6aa7e9ef4e1c4aa1ac1adf341c6b988f68cb39c2de2fc2f788f202"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/run_round8_local_job.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/run_round8_local_job.py",
+      "source_sha256": "0275b9e7df9ea7f3f18ac86c56da15e14a6fe9044001915427f5d8a2b2cea683"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/sync_round8_code.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/sync_round8_code.py",
+      "source_sha256": "c5dd0826fdbbd8095335880b5d71e8c1ec10edd0d4d1cfd0495af230446b4887"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/verify_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/verify_round8.py",
+      "source_sha256": "c8d606c28019be7c11409a82149d9e2cc651151196d6939cf560b8b075b6e3b7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/verify_round8_local.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/scripts/verify_round8_local.py",
+      "source_sha256": "d42691260bc66e790be68967a5c6aa3d034b08c8f20013960659052f4e537109"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_aggregate_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_aggregate_round8.py",
+      "source_sha256": "2fa985e2cc94f75225d221f857d9acfbd940d4be0f06a41f20d29f9d79926526"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_dspy_executable_agent.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_dspy_executable_agent.py",
+      "source_sha256": "27507c1fd4120d518c1636de00c369bab22885978d120674637e02af1527ea36"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_executable_applet.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_executable_applet.py",
+      "source_sha256": "8036a77cf2163dab1eeed9dd5ecfb61b99f0f121cfde36b329ed92a602f6bc8d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_probe_ollama_tool_models.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_probe_ollama_tool_models.py",
+      "source_sha256": "fa5b23c50b11e0f5bd7e3fc9f1c4db85558fcf2e180cb994668b77a810e9ad50"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_round8_local_ops.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_round8_local_ops.py",
+      "source_sha256": "b17803532f4aa3f2a6946be5d1b357aae1e2ac083ea464ec848a26508993d5dd",
+      "release_sha256": "db5b1a6f875700afce5c5c91da8d3dbafd165c1d45f49bae9a9ed083ecebe05f",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_round8_ops.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_round8_ops.py",
+      "source_sha256": "89f89b92f0b22a6d1f380bb227f56696b8d7b598abef9ed8fdd97261c6e7bae6",
+      "release_sha256": "2e35456cf50e2457d89750d1b9f3b28f840c9ad026017c136f95642307669c54",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_run_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/deepseekv4flash/tests/test_run_round8.py",
+      "source_sha256": "2b0e353ac145731124d42ad8a42c5f81350cb8a9102adb87f4323123de2b5838"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/aggregate_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/aggregate_round8.py",
+      "source_sha256": "7e84e3d1ffde22e7bbf214daeee8a0d9d68f50a0c8524d27bc7441d527940244"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/dspy_executable_agent.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/dspy_executable_agent.py",
+      "source_sha256": "113df024030b426375a5ee563f8eb2e7f704c0435e82d91088c1500ffd9aa024"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/executable_applet.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/executable_applet.py",
+      "source_sha256": "ac24454af51928b7a8c5f2b8e754f4ba28325fbc60c277ae248e2fe7d5f6391c"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/frozen_router.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/frozen_router.py",
+      "source_sha256": "b848670b611e314b02669bfb1c0b39cf0613c05d474469de3d76e1b8f1a65fe7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/launch_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/launch_round8.py",
+      "source_sha256": "cc265d296e93f345b46af1095c212ec643630c2a4b24258f9dc61983e9907840"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/launch_round8_local.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/launch_round8_local.py",
+      "source_sha256": "6e2df490f09d0613218e120af6c4884b0df6e39828de1c8c75f2a94a0c274eca"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/probe_ollama_tool_models.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/probe_ollama_tool_models.py",
+      "source_sha256": "cbe606efc0f62719c13c25fd6fe322e7588adb029def9122daeeb62a3a131d9e"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/run_local_ollama_server.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/run_local_ollama_server.py",
+      "source_sha256": "848d7676aea3146beb69052495fdc33432d49149c1b6e24998112f18b9eca4fd"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/run_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/run_round8.py",
+      "source_sha256": "530f668769fe5cb5359cdfae2d267fa3b2006dcce5f9b6bde3fba3309b2cb6c2"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/run_round8_job.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/run_round8_job.py",
+      "source_sha256": "a3fa50abef6aa7e9ef4e1c4aa1ac1adf341c6b988f68cb39c2de2fc2f788f202"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/run_round8_local_job.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/run_round8_local_job.py",
+      "source_sha256": "0275b9e7df9ea7f3f18ac86c56da15e14a6fe9044001915427f5d8a2b2cea683"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/sync_round8_code.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/sync_round8_code.py",
+      "source_sha256": "c5dd0826fdbbd8095335880b5d71e8c1ec10edd0d4d1cfd0495af230446b4887"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/verify_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/verify_round8.py",
+      "source_sha256": "c8d606c28019be7c11409a82149d9e2cc651151196d6939cf560b8b075b6e3b7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/verify_round8_local.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/scripts/verify_round8_local.py",
+      "source_sha256": "d42691260bc66e790be68967a5c6aa3d034b08c8f20013960659052f4e537109"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_aggregate_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_aggregate_round8.py",
+      "source_sha256": "2fa985e2cc94f75225d221f857d9acfbd940d4be0f06a41f20d29f9d79926526"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_dspy_executable_agent.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_dspy_executable_agent.py",
+      "source_sha256": "27507c1fd4120d518c1636de00c369bab22885978d120674637e02af1527ea36"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_executable_applet.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_executable_applet.py",
+      "source_sha256": "8036a77cf2163dab1eeed9dd5ecfb61b99f0f121cfde36b329ed92a602f6bc8d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_probe_ollama_tool_models.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_probe_ollama_tool_models.py",
+      "source_sha256": "fa5b23c50b11e0f5bd7e3fc9f1c4db85558fcf2e180cb994668b77a810e9ad50"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_round8_local_ops.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_round8_local_ops.py",
+      "source_sha256": "b17803532f4aa3f2a6946be5d1b357aae1e2ac083ea464ec848a26508993d5dd",
+      "release_sha256": "db5b1a6f875700afce5c5c91da8d3dbafd165c1d45f49bae9a9ed083ecebe05f",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_round8_ops.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_round8_ops.py",
+      "source_sha256": "89f89b92f0b22a6d1f380bb227f56696b8d7b598abef9ed8fdd97261c6e7bae6",
+      "release_sha256": "2e35456cf50e2457d89750d1b9f3b28f840c9ad026017c136f95642307669c54",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_run_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/gptoss20b/tests/test_run_round8.py",
+      "source_sha256": "2b0e353ac145731124d42ad8a42c5f81350cb8a9102adb87f4323123de2b5838"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/aggregate_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/aggregate_round8.py",
+      "source_sha256": "7e84e3d1ffde22e7bbf214daeee8a0d9d68f50a0c8524d27bc7441d527940244"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/dspy_executable_agent.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/dspy_executable_agent.py",
+      "source_sha256": "113df024030b426375a5ee563f8eb2e7f704c0435e82d91088c1500ffd9aa024"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/executable_applet.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/executable_applet.py",
+      "source_sha256": "ac24454af51928b7a8c5f2b8e754f4ba28325fbc60c277ae248e2fe7d5f6391c"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/frozen_router.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/frozen_router.py",
+      "source_sha256": "b848670b611e314b02669bfb1c0b39cf0613c05d474469de3d76e1b8f1a65fe7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/launch_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/launch_round8.py",
+      "source_sha256": "cc265d296e93f345b46af1095c212ec643630c2a4b24258f9dc61983e9907840"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/launch_round8_local.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/launch_round8_local.py",
+      "source_sha256": "6e2df490f09d0613218e120af6c4884b0df6e39828de1c8c75f2a94a0c274eca"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/probe_ollama_tool_models.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/probe_ollama_tool_models.py",
+      "source_sha256": "cbe606efc0f62719c13c25fd6fe322e7588adb029def9122daeeb62a3a131d9e"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/run_local_ollama_server.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/run_local_ollama_server.py",
+      "source_sha256": "848d7676aea3146beb69052495fdc33432d49149c1b6e24998112f18b9eca4fd"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/run_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/run_round8.py",
+      "source_sha256": "530f668769fe5cb5359cdfae2d267fa3b2006dcce5f9b6bde3fba3309b2cb6c2"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/run_round8_job.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/run_round8_job.py",
+      "source_sha256": "a3fa50abef6aa7e9ef4e1c4aa1ac1adf341c6b988f68cb39c2de2fc2f788f202"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/run_round8_local_job.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/run_round8_local_job.py",
+      "source_sha256": "0275b9e7df9ea7f3f18ac86c56da15e14a6fe9044001915427f5d8a2b2cea683"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/sync_round8_code.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/sync_round8_code.py",
+      "source_sha256": "c5dd0826fdbbd8095335880b5d71e8c1ec10edd0d4d1cfd0495af230446b4887"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/verify_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/verify_round8.py",
+      "source_sha256": "c8d606c28019be7c11409a82149d9e2cc651151196d6939cf560b8b075b6e3b7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/verify_round8_local.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/scripts/verify_round8_local.py",
+      "source_sha256": "d42691260bc66e790be68967a5c6aa3d034b08c8f20013960659052f4e537109"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_aggregate_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_aggregate_round8.py",
+      "source_sha256": "2fa985e2cc94f75225d221f857d9acfbd940d4be0f06a41f20d29f9d79926526"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_dspy_executable_agent.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_dspy_executable_agent.py",
+      "source_sha256": "27507c1fd4120d518c1636de00c369bab22885978d120674637e02af1527ea36"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_executable_applet.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_executable_applet.py",
+      "source_sha256": "8036a77cf2163dab1eeed9dd5ecfb61b99f0f121cfde36b329ed92a602f6bc8d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_probe_ollama_tool_models.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_probe_ollama_tool_models.py",
+      "source_sha256": "fa5b23c50b11e0f5bd7e3fc9f1c4db85558fcf2e180cb994668b77a810e9ad50"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_round8_local_ops.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_round8_local_ops.py",
+      "source_sha256": "b17803532f4aa3f2a6946be5d1b357aae1e2ac083ea464ec848a26508993d5dd",
+      "release_sha256": "db5b1a6f875700afce5c5c91da8d3dbafd165c1d45f49bae9a9ed083ecebe05f",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_round8_ops.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_round8_ops.py",
+      "source_sha256": "89f89b92f0b22a6d1f380bb227f56696b8d7b598abef9ed8fdd97261c6e7bae6",
+      "release_sha256": "2e35456cf50e2457d89750d1b9f3b28f840c9ad026017c136f95642307669c54",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_run_round8.py",
+      "source": "DGX/farm/experiments/20260904T092000Z-farm-round8-cloud-3model-consensus/qwen35/tests/test_run_round8.py",
+      "source_sha256": "2b0e353ac145731124d42ad8a42c5f81350cb8a9102adb87f4323123de2b5838"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/remote-artifacts/astra_diagnosis_20260905T0803/endpoint_v8/endpoint_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/remote-artifacts/astra_diagnosis_20260905T0803/endpoint_v8/endpoint_agent.py",
+      "source_sha256": "3f7c2a8a9c79ebaad3a4aa5cc0eecb95145a75e0fc32a6867b7afb769785d8bd"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/remote-artifacts/astra_diagnosis_20260905T0803/endpoint_v8/ollama_client.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/remote-artifacts/astra_diagnosis_20260905T0803/endpoint_v8/ollama_client.py",
+      "source_sha256": "3c74904c8463b412ffebf8c716388001e28782932692bba585c398d8b80e6e2d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_endpoint_ceiling.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_endpoint_ceiling.py",
+      "source_sha256": "4bea8118f1e4a442d52ddca173d3289f338a5501068088ce46eb45d8d01dc623"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_farm_public_transfer.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_farm_public_transfer.py",
+      "source_sha256": "a1b5fe8ad56572f0c069b350c7ea551ab81beec2fa44624d717697520ffad3ae"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_public_response_envelopes.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_public_response_envelopes.py",
+      "source_sha256": "1e0e2bcf4c585f9a1d0d274d8454671eaddfbf62fb8f75bd710cd301de9a9838"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_recipegen_farm_training_overlap.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_recipegen_farm_training_overlap.py",
+      "source_sha256": "c1b5f5cfdc44c6c85bf8c011f6bcda9fc5d617f9d77cdb03e4744710a60cb6ae"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_targe_program_leakage.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/audit_targe_program_leakage.py",
+      "source_sha256": "58c37134ffb6e81bc79d1479c79eb2d6b46c25e37c84e2b53f9624292e635d99"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/build_external_candidates.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/build_external_candidates.py",
+      "source_sha256": "ecfd9ae0c8be9a9bf4384c2f873fa4a6a706c188874c289a7b2b9a04b0ddb0d4"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/build_external_candidates_v2.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/build_external_candidates_v2.py",
+      "source_sha256": "ecfd9ae0c8be9a9bf4384c2f873fa4a6a706c188874c289a7b2b9a04b0ddb0d4"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/build_farm_seed_candidates.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/build_farm_seed_candidates.py",
+      "source_sha256": "b2837e7cd67f5f9165d000ee268a4657e32982a41b004fdca7e6265bf1114035"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/build_ragas_id_inputs.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/build_ragas_id_inputs.py",
+      "source_sha256": "96bdcbfa560e6ab97e8c4503930f9743251ff30cb70eb95927d217557d2b8941"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/collect_astra_public_results.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/collect_astra_public_results.py",
+      "source_sha256": "9fc83f49380c50340d107dfd2da0db7b29cc2dce785d6d058d422a48a71bb270"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/compare_bfcl_arms.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/compare_bfcl_arms.py",
+      "source_sha256": "df82cbc6b509d2dc21bb24113975e920910cfdf11c51c31c6afa7bd1a4af7b63"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/compare_configuration_arms.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/compare_configuration_arms.py",
+      "source_sha256": "3a685b5940d6f8b71e4cc12f2e02e19e29aefd9255f1b27c115cbb2334ccc4c8"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/compile_dspy_public_train.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/compile_dspy_public_train.py",
+      "source_sha256": "f4aaaf544c33e4a892bd68a4a1c624e5d83d582c2e96553bc43cc98381830c04"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/convert_yao_official.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/convert_yao_official.py",
+      "source_sha256": "68572f324da1a74765c4082095f9936d2d19e927074284dd8be1899c7d293f3f"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/evaluate_recipegen_released.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/evaluate_recipegen_released.py",
+      "source_sha256": "e5b1885309455d6e5ba71002b57742e705a3f83fe7118a5bd63af40caa06c24d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/export_configuration_paper_tables.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/export_configuration_paper_tables.py",
+      "source_sha256": "53f954ebedd421a70ec54e053b41cd9c85db88c27a46ee35dab401fd33fa6983"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/export_configuration_public_report.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/export_configuration_public_report.py",
+      "source_sha256": "bddec491263a5a412190111996edbe7d65909727f3b6b12a6d84d8bca43abd9d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/export_public_aggregates.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/export_public_aggregates.py",
+      "source_sha256": "78fbc21083f6baab61a1149860db7fe813b077537978e9a727dfdc707d27b412"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/export_yao_public_aggregate.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/export_yao_public_aggregate.py",
+      "source_sha256": "d66ee94cab81b2870b0b7757d560ca8fb1765452963b7c2a9f62ab7b6f4d5c8b"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/fuse_farm_candidates.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/fuse_farm_candidates.py",
+      "source_sha256": "da9be902506e8f7d9b9ce4badfa1982c681697f5ce6f135a356e05d174695185"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/fuse_farm_candidates_v2.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/fuse_farm_candidates_v2.py",
+      "source_sha256": "da9be902506e8f7d9b9ce4badfa1982c681697f5ce6f135a356e05d174695185"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/launch_bfcl_h21_after_recipegen.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/launch_bfcl_h21_after_recipegen.py",
+      "source_sha256": "1ebb07c22b21d94611c16b53faeedf0a0c9357ba4abb6a5cdce32029cee9401a"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/launch_recipegen_noisy_after_bfcl.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/launch_recipegen_noisy_after_bfcl.py",
+      "source_sha256": "f61de5d61baac0489019044d354dbad511bc6ca121bf9c4d4cd90a9b6c4ae309"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/launch_yao_successor.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/launch_yao_successor.py",
+      "source_sha256": "1ddf9ae759f1f00e9e060ccf610ccf4b7ea5a9fad747e96225916eb1dcded50f"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/preflight_bfcl_ollama.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/preflight_bfcl_ollama.py",
+      "source_sha256": "a9355588b26fb127493aac97c835748e006cbf2d317d16aa63fabe3785c02ca5"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/preflight_bfcl_startup.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/preflight_bfcl_startup.py",
+      "source_sha256": "5a70cacb758269076e01b3e474ea3b66774de90399de6787737b66567a7e797c"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/prepare_benchmarks.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/prepare_benchmarks.py",
+      "source_sha256": "adf85cffe67b167e65a48583562565819b26a8939056fa3021855fafb0135213"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/prepare_public_agent_benchmarks.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/prepare_public_agent_benchmarks.py",
+      "source_sha256": "511966f202a89412fa9f9dafb1018c10a07f66a9bafdf5e465f5065d702639be"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/recover_endpoint_transport.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/recover_endpoint_transport.py",
+      "source_sha256": "7e4bb1fa170e7fe35ebdf618ea69ec53efcd9743fab35f389193e49ad9750272"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_bfcl_ollama.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_bfcl_ollama.py",
+      "source_sha256": "e6b3432cb4b8ef8886c34402913e2edc3e31650822c6baa93c70bd49304c87cf"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_catalog_search_experiment.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_catalog_search_experiment.py",
+      "source_sha256": "7c6261d23ee87a7e9b8a33e86985169f5bc4bf54690a3a3bb19c2a4b0740534c"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_configuration_experiment.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_configuration_experiment.py",
+      "source_sha256": "f3c2a649ab6e83d0c6efa667818d48a15eec1b2eadb571e7a5c70404d3ce872b"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_endpoint_experiment.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_endpoint_experiment.py",
+      "source_sha256": "3bb3ce53aab29053dce6e054c05527ec17129dc64054f0726614881e7462de97"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_ragas_secondary.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_ragas_secondary.py",
+      "source_sha256": "39bdc799c4c1aac50c5c9e0dcb9aa9fcc9046e3fc5a2a3acfbed5e646ec51d32"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_yao_experiment.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_yao_experiment.py",
+      "source_sha256": "ceebd0be1b5e7325e0ed5528c65ab1a45424e5e6fe574a42c7b5b3c35233fa9b"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_yao_native.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/run_yao_native.py",
+      "source_sha256": "d8b562f59c99d626cbe34f8956358360cc9e314f623b903a89f03bc3e1b453c1"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/smoke_configuration_live.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/smoke_configuration_live.py",
+      "source_sha256": "25d9c65d32501d5a8c158e73e3f6acb3641ac4814ec613dac7409a90eadf7e2b"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/stage_public_release.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/stage_public_release.py",
+      "source_sha256": "8a40e3efa2661a03c53fed60420c9a4398f4e9d1bb970941e4e76ff3aebaee74"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/watch_astra_runs.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/scripts/watch_astra_runs.py",
+      "source_sha256": "08562680da50cdd6450dda4be1a438363d849dd448ce5805759fd72fee7008aa"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/__init__.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/__init__.py",
+      "source_sha256": "dfb576f3502f93a9f21113edeb8866de2045ad156d99698f2962c04d412ae17d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/__init__.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/__init__.py",
+      "source_sha256": "02738e15f5b8f8870e49e182b1fac9a9a59f271785b6c52663f396f3432a83b6"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/bfcl.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/bfcl.py",
+      "source_sha256": "ecdbcb555fdb23e16827ca6f31fc95cd43f8b50001e15fed8dde15830077b206"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/common.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/common.py",
+      "source_sha256": "e9c939cd421920b481fd2dc28c9523491b6e31d71ca03f7367d46ee94f498e00"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/farm_v2.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/farm_v2.py",
+      "source_sha256": "09c1949201302889404e835e74445865e0c4acc79e6dbbd82ceb40982271b5af"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/recipegen.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/recipegen.py",
+      "source_sha256": "94dc76aee71df10da5366bd9ffddbd5092a35e7e314a80e1394d536a7c5fd010"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/targe.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/targe.py",
+      "source_sha256": "37bf25cc69bd2a42dc96a3855e0bc4edd5157d4599e76c35fa6a028d15597602"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/yao_interactive.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/adapters/yao_interactive.py",
+      "source_sha256": "33e29998d3f082f24003b8d158c532468773da37145d74c8a9a107d2883df89e"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/agent_state.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/agent_state.py",
+      "source_sha256": "4116b96ec0f33b29d0dc774a3fb61f5ec4da31bfff9f1c0b676deb472eb2e1bf"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/artifact_io.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/artifact_io.py",
+      "source_sha256": "d1f1e09bb131c7fd4569187d9518dd9707bf0ddeb9af2e660a91ba55ad562050"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/bfcl_comparison.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/bfcl_comparison.py",
+      "source_sha256": "9060e469f3ce1c9f41edac52420e967cecf8aa2a1644363b6f28e6eaf7df0232"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/bfcl_runner.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/bfcl_runner.py",
+      "source_sha256": "f1a399bc0830ca53fb2a5691d65768f24599f7a443e4452209bf8762f2486c39"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/candidate_sets.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/candidate_sets.py",
+      "source_sha256": "25e6c074e767f7a0bed10af33307b60b29d3bb552d139fdc6bb579558358b2da"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/catalog_search_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/catalog_search_agent.py",
+      "source_sha256": "eb73223289684984030be223ec39e97259a482448daf561c7aa0bdd25a90fd5d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/cloud_limiter.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/cloud_limiter.py",
+      "source_sha256": "517e3f56c57c7681e872ac21490b299ae6376b81dbc2c0ad9ad1a4e84f28282d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/compiler.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/compiler.py",
+      "source_sha256": "964211a74160f73399a3754d1606c656c03286436e1b5ee214d578441072b7fe"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/configuration_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/configuration_agent.py",
+      "source_sha256": "840d4289c21accfe0c88050d7505ba0029e30b5013aca2e3be0fa01fef93133e"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/configuration_comparison.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/configuration_comparison.py",
+      "source_sha256": "eb9e42509934b0f986fe9e6022cf66e7f631cd0f11682b2b4c41e4e1f08d78ef"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/configuration_reporting.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/configuration_reporting.py",
+      "source_sha256": "8a64eb32efb197ce5cba5dfd2f8d161f6f0eb8d99bd9dda08ca0c6d0e6b598c4"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/contracts.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/contracts.py",
+      "source_sha256": "73e7f3eef2f076edc030127a2f4fff23b683d2e827a8bf00a81f6c516ba72ad9"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/dspy_program.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/dspy_program.py",
+      "source_sha256": "b27f2ae282a484a192cc720992b4fffb551f83086bf8269742b5a83a3e9d0212"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/endpoint_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/endpoint_agent.py",
+      "source_sha256": "d05468f25e78388fb8067b3d6d21cdc8fe15fec65f54fef401658be54d8d8720"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/endpoint_runner.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/endpoint_runner.py",
+      "source_sha256": "2896b2f61bad6dad8265b2ae4df6dad8029b5a627848d23fbacb2e86ece11cd4"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/metrics_endpoint.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/metrics_endpoint.py",
+      "source_sha256": "a0f01adb1976bc50f41d6d7b33e835357d44789a6da028f70ad36398331c706c"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/ollama_client.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/ollama_client.py",
+      "source_sha256": "84d93c85f9435a00ab54132f8485b86b2f2fc013690d364c37ea83aa94dd74e5"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/paired_statistics.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/paired_statistics.py",
+      "source_sha256": "449ddded17fa47e8061ece4e4b31620b57b7b0d7c46180ec6a7d360319184368"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/privacy.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/privacy.py",
+      "source_sha256": "bcb2b896ebcc2f7603fdcc9b37fd7fbb7123da98692730275f73cfef684f5268"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/ragas_secondary.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/ragas_secondary.py",
+      "source_sha256": "6f054d89a3dd67f1c73ea7830bbec3abc0b7a2fd6e844a07abf2294ab917955a"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/recipegen_farm_overlap.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/recipegen_farm_overlap.py",
+      "source_sha256": "04f6c18fd62824f302fb951eaad2398d5267ddb8d3122f7d9a742a9af069b429"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/recipegen_released.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/recipegen_released.py",
+      "source_sha256": "90e37b3fd317b114c3dc034cb50198f669d45cc11778bda7896797d939a550d8"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/release_staging.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/release_staging.py",
+      "source_sha256": "1481d816e0aebd06b5226a2de51f54fc335c4955fa9c4d7a0b591f6747d87d65"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/sampling.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/sampling.py",
+      "source_sha256": "906f3e76a8b9bfd733dfb97f4cbe27af6cde8157bd2dddf240e6936fe39eea21"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/targe_leakage_audit.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/targe_leakage_audit.py",
+      "source_sha256": "685bbcf69b7529c32a61c383f59e702bcfac3bdb97d709140215f58baaf83ff4"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/yao_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/yao_agent.py",
+      "source_sha256": "ea5680f54ba20a3686f4188456fc869882d653f910150a79cc6a22c480a35b3f"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/yao_native.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/yao_native.py",
+      "source_sha256": "70749856fbd6310e65282aa6d67edf29d32f4a2e1dd16bd36d79cbe79044af11"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/yao_reporting.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/src/farm_r9/yao_reporting.py",
+      "source_sha256": "72eee2e394c5939e8cdb761044f40bb3415f1f2f75e889ec4038e13cb19be37d"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_adapters.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_adapters.py",
+      "source_sha256": "ccd33647b609800804d03f284ac70288cfc36c7af8a0729fc5d349a65f6bffde"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_agent_state.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_agent_state.py",
+      "source_sha256": "d48e5846d23a10f38a1a52abab29713ff1c1f4ad15b8e2ce1073f6c570389a90"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_artifact_io.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_artifact_io.py",
+      "source_sha256": "31d761feec15c22f06b5eea0e4dff2f3497ffdda1a082b581da30f841263703f"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_astra_collection.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_astra_collection.py",
+      "source_sha256": "67d93ce79d0d0b0ac9bafe14dd33bfda4648bf5c90e3ef0fbd8559f3f12cecd2"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_bfcl_adapter.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_bfcl_adapter.py",
+      "source_sha256": "2444a809c69e0df9b59ef379519131ac491c93afa22cbcc13e315706a4b82fee"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_bfcl_comparison.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_bfcl_comparison.py",
+      "source_sha256": "a32c8c64cbd31cf07eb26743779ced86fa860bb5c185bd2fef8348a349eb94c9"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_bfcl_runner.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_bfcl_runner.py",
+      "source_sha256": "9833934c12dcb0a5d858474b4157c3bd6dc0e578f3410ac0acf5434a461e0940"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_build_ragas_id_inputs.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_build_ragas_id_inputs.py",
+      "source_sha256": "45b4329e52bca45f2ef75690ee79b2207449a215b54907c74c192d9e866b4383"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_candidate_sets.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_candidate_sets.py",
+      "source_sha256": "e5c79898623effd57a3343e2455a1831a7539992edfa452cad35bd52567507f4"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_catalog_search_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_catalog_search_agent.py",
+      "source_sha256": "5466e91a87567c16e0cdc5ee790b8a19b8e3351519a6fee1bb4cc9c87b6a2d13"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_cloud_limiter.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_cloud_limiter.py",
+      "source_sha256": "993d2ca7bec14a8ae139b819f7e1781bc46cafc47f554e229f27e43ca43dbbe7"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_compiler.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_compiler.py",
+      "source_sha256": "fad6e684b4ced7cd8938497572abeb35b21a8cd688b7fbe77ae495167749a891"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_configuration_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_configuration_agent.py",
+      "source_sha256": "5b000e9b2a9764682d0277b59d4744336aac271e43e14a16babc8e24bafb9464"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_configuration_comparison.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_configuration_comparison.py",
+      "source_sha256": "e2433ce4c84fe4a510d3d696cbfbb183c9404349f26045af6cb2a6ad421619c6"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_configuration_reporting.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_configuration_reporting.py",
+      "source_sha256": "4b0df60ca70fa02215b07be52b6998a5c5e4ce5a38e715f289165beb0e82b17b"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_configuration_runner.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_configuration_runner.py",
+      "source_sha256": "6b3ad04691a7639516ce9c55c5acc6be8ea17c54457c188c2965d0bc2db50e58"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_dspy_program.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_dspy_program.py",
+      "source_sha256": "7c0783640e2efceb2d0c7e099ad9a3fa3d86d559f97428d196d62c20190ecdc8"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_endpoint_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_endpoint_agent.py",
+      "source_sha256": "fdc96acdaaee56f1176b5298018b44a7d318a388a6f3e98fcc9fb5cb37a06965"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_endpoint_runner.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_endpoint_runner.py",
+      "source_sha256": "288f6181a245e5638f6b973ce59ef7cef5c87947840f5469927b278d6c500398"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_launch_bfcl_h21_after_recipegen.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_launch_bfcl_h21_after_recipegen.py",
+      "source_sha256": "a50497d0c95125645f2493adfaf5d410687aea40911b704a6f28b34fd542ce2f"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_launch_recipegen_noisy_after_bfcl.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_launch_recipegen_noisy_after_bfcl.py",
+      "source_sha256": "85ee5874097262de51b9be04a24af2c3158e4a846fcc969182128a8118f33b1f"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_launch_yao_successor.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_launch_yao_successor.py",
+      "source_sha256": "9355b22a06fb3a384b0616fb088eb1e29e132efe7bdfb7928af42ce888da7266"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_ollama_client.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_ollama_client.py",
+      "source_sha256": "8c018defcff47380c098917cb94034a7f1dc15e0f66417cca5a668ce3414e8fa"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_paired_statistics.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_paired_statistics.py",
+      "source_sha256": "2b856c4335eba966d6784fbdda42933dfc8f4629755d0b298f773783678cf3fa"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_privacy.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_privacy.py",
+      "source_sha256": "d2396594ea7c9100f77b1ec0599e4ce7d05247535152b09488737dcd96f4c442"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_public_transfer.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_public_transfer.py",
+      "source_sha256": "f9ccfca3d1d7f73bbf0315a989ad56ce585c8ca9cb5f58efb5a7adfe06731b82"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_ragas_secondary.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_ragas_secondary.py",
+      "source_sha256": "e00b62a5f22d84949836e0bc575b6bcd11d039769709fecae6a3392774097824"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_recipegen_farm_overlap.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_recipegen_farm_overlap.py",
+      "source_sha256": "bbf32f1092c75b6766a2ae5eb59d65dc41ae40043b9282808eb279ba850eca29"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_recipegen_released.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_recipegen_released.py",
+      "source_sha256": "38907a6ac921dce0e1eece4155d90590a242aeaf5583886e892537b6dd6bf706"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_release_staging.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_release_staging.py",
+      "source_sha256": "124e00c50a0da2d54a5cf5d64837cbbc6f0f6924a1b8c736140053636182aeeb"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_sampling.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_sampling.py",
+      "source_sha256": "afb8fc7bb6dd4a578df14355239d5abd53a179ae0ccb5bd3020bc58b75e7eb8a"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_targe_leakage_audit.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_targe_leakage_audit.py",
+      "source_sha256": "e14b020c3b5e9c682171d97aa399d1da8d98019db6da2c4b28eaf27896a00437"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_yao_adapter.py",
+      "source": "DGX/farm/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_yao_adapter.py",
+      "source_sha256": "76c576f2a04fa62cb0cfd9b298e90e88eaea8d506a7228920c663b2ef6ba46c0"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_yao_agent.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_yao_agent.py",
+      "source_sha256": "d40f17be7efbe247051147371005e826af19214b02b68ad2069df681b8b822a3"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_yao_native.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_yao_native.py",
+      "source_sha256": "e551db4156e0c47e5174cfe47bed0545f34051a1ae403a225a98922b50398c82"
+    },
+    {
+      "path": "research/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_yao_reporting.py",
+      "source": "workstation/FARM/experiments/20260904T170552Z-farm-round9-agentic-benchmarks/tests/test_yao_reporting.py",
+      "source_sha256": "f567064b7d00adcf9488221e4eaaaf615fd6ac13aef18d180e850360e4f3dc1b"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/audit_confusers.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/audit_confusers.py",
+      "source_sha256": "0b6df7cedc6f77f4142aacbc56949e6272b3f1035f95af7e2302b55bca2e6eac"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/boundary_probe.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/boundary_probe.py",
+      "source_sha256": "321bd1bd9946faba8f76e5f4cb053a1d934ab94e8eeecb578a666184f8eddb89"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/checkpoint_loading.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/checkpoint_loading.py",
+      "source_sha256": "fc00c205483716a769cc0563e1cf2c5ccf2aadad869d55f89e2145b8d94f9f8d"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/configs.json",
+      "source": "workstation/FARM/experiments/20260905-controlled-six-training/configs.json",
+      "source_sha256": "ced965898cd910e8652748ed3b020a89b8d9578042aad32dedee37d7b86ec780"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/evaluate.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/evaluate.py",
+      "source_sha256": "e70274f8845236b5fee6d8edb63744f4b143242fac6209b90500a23a02720942",
+      "release_sha256": "b6e97254993f06a2290e6ce6cf3fa867d49de0644b723d19826ba28c62667681",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/evaluation_probe.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/evaluation_probe.py",
+      "source_sha256": "27e20cb1ee63577c05f3fa7d1b997f0ea1fab26a5482d6d8084f10bd57b61887"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/experiment.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/experiment.py",
+      "source_sha256": "b8f9b0015437923b4a9403fb27cef2614f389f4ccf52a178bf5a9c46a225509d"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/launch.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/launch.py",
+      "source_sha256": "363ed119e06caab0a97979a1c6bd8955ca1f33093bce79e5ca8d281b12d33158"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/monitor.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/monitor.py",
+      "source_sha256": "d79b8202d86fbde42e358ca6a53aa899130dd6e9e62d2010d690ef37411e4eea"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/objectives.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/objectives.py",
+      "source_sha256": "1ae83e15466cffc582a4c5a705d8d5f991d93ef6aaaeaaf59f60272ee696fce2"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/pair_scoring.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/pair_scoring.py",
+      "source_sha256": "6cc34b656a3740f23dcb76455fc57dac2fe94463bffb14ddfa53996b2cb8dcd3"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/prepare.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/prepare.py",
+      "source_sha256": "dfeaeb3b88417928dfbd75cece691c8e3962fea8336aa2c523dc60604a2a4a21"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/prepare_run.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/prepare_run.py",
+      "source_sha256": "34bc32e7543342c3f502550fcf7b3e3cf80140b6db758fdf978eeaf5b96bd09f"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/real_h6_gradient_probe.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/real_h6_gradient_probe.py",
+      "source_sha256": "6a5f479e27e17ce8d43163cd435071a628ba9da9c07c98e8b869f9221e605943"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/reevaluate_previous.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/reevaluate_previous.py",
+      "source_sha256": "fa94b411eacca8db75c6254f2b801d4b6b7f2f7419a9851c2675f886765c156f"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/resume_diagnose.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/resume_diagnose.py",
+      "source_sha256": "41d103a2567f2414e9cda3972cc037dfef4f64365d48921ed1dc56f808f9a92a"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/runtime.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/runtime.py",
+      "source_sha256": "eda861a849d362daebedf7d5bc6d9bced515345bbd40b9a98bc2a2920cd2c9d2"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/test_experiment.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/test_experiment.py",
+      "source_sha256": "137d83623af5e898791f05092e423f4084473f18290373f6ae186f848179f1d6"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/test_objectives.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/test_objectives.py",
+      "source_sha256": "f8ce72be74dc9d42c2bfed2a9aada13bf0083a3af36ee210f4935beb9314c158"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/test_pair_scoring.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/test_pair_scoring.py",
+      "source_sha256": "350b7e6b5d6d4d3a125bc5bbae6e905f21cd760eea5d7ce6efd46f3806113479"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/train.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/train.py",
+      "source_sha256": "93e442dbad85858db9b3b233281bd95052ec5b9011218308f4054f9bc2d4698d"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/verify_launch.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/verify_launch.py",
+      "source_sha256": "20fe5dcb870c9be3349663cd75c784bd73079c00498dd0497d127d6249e69da3"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-controlled-six-training/verify_preflight.py",
+      "source": "DGX/farm/experiments/20260905-controlled-six-training/verify_preflight.py",
+      "source_sha256": "ab17ad41584f44174ff13dd4f58a1515b4e4ee0a8ed610018cc523612e9dd6ea"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/audit/evaluation_numpy_axis_v1/evaluate.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/audit/evaluation_numpy_axis_v1/evaluate.py",
+      "source_sha256": "450f9f14979eeb30838efbfcc4bfe599448deff9d1241cbda0e823be4220f4a8",
+      "release_sha256": "1fa9c8e7e0197c9f9ea9abe2498fbced12bf896911d1a6d5612993eeaa1fe42f",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/collect.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/collect.py",
+      "source_sha256": "406907f3a72ad40402520ef31f0a08514d5038648c27088142244f0a2ed22d8c"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/evaluate.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/evaluate.py",
+      "source_sha256": "c3ee05d68f3d8b53fbc9673feb57b46d54bf7bb4431118feb3af4e0c5e8c3161",
+      "release_sha256": "a2bdcd61cd81133a9bee3cfb15b576a8b9a080ca09016307193f20a5865e9c45",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/launch.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/launch.py",
+      "source_sha256": "a41bc08615132a6df8301723085917f403375030f3819d2fb09fd46c3ae7974f"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/objectives.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/objectives.py",
+      "source_sha256": "f07558ed8b7ec971b313c43513055c03b4f638bbc8d14541c151d04d4a44fd0f"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/pair_scoring.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/pair_scoring.py",
+      "source_sha256": "6cc34b656a3740f23dcb76455fc57dac2fe94463bffb14ddfa53996b2cb8dcd3"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/prepare.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/prepare.py",
+      "source_sha256": "dfeaeb3b88417928dfbd75cece691c8e3962fea8336aa2c523dc60604a2a4a21"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/promote.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/promote.py",
+      "source_sha256": "32bfb477a0ede526d0a5c7bedd7da97c55a216bb8941a820894318bb4be03afa"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/reevaluate_f4.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/reevaluate_f4.py",
+      "source_sha256": "9130876d58e0ea8f240455f84d9272d8f72430be1a38819757afd489afcf8065"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/test_objectives.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/test_objectives.py",
+      "source_sha256": "f8ce72be74dc9d42c2bfed2a9aada13bf0083a3af36ee210f4935beb9314c158"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/test_pair_scoring.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/test_pair_scoring.py",
+      "source_sha256": "350b7e6b5d6d4d3a125bc5bbae6e905f21cd760eea5d7ce6efd46f3806113479"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/train.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/train.py",
+      "source_sha256": "0682195d7a80b8884c658749706167c56ba5113bda61c857a456e602a0cdbc9f"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/validate_data.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/validate_data.py",
+      "source_sha256": "9b9cc74599be9ada34421ec53d274d98970735f78bdb6eab8bb7e913af2e654c"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/validate_runtime.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/validate_runtime.py",
+      "source_sha256": "78f87e5b63a14367c884ecd2dd6b85b39d3c1c11bcf817b587902cf160af4d1f"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-five-training-techniques/verify_launch.py",
+      "source": "DGX/farm/experiments/20260905-five-training-techniques/verify_launch.py",
+      "source_sha256": "09e9ed78abceaab6d2d5974d2c1e358ef9395bb0bfd5c405197e7b7461cc0984"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-strong-validation/scripts/collect_holdout.py",
+      "source": "DGX/farm/experiments/20260905-strong-validation/scripts/collect_holdout.py",
+      "source_sha256": "dbaacfa921703c8e46e8603014a374032dc1ad1b00040bb12e86a1e275b535e3",
+      "release_sha256": "ee50c76e1bbd2d6e51e10183b090679c6d7a8e1962125096050abf8ffc51b944",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-strong-validation/scripts/evaluate_frozen_holdout.py",
+      "source": "DGX/farm/experiments/20260905-strong-validation/scripts/evaluate_frozen_holdout.py",
+      "source_sha256": "f399cdd7d7618453146e2dac1ebe0cafd23af34d44218b06f0e2bcb7e4f9022a",
+      "release_sha256": "139ac9652e6c4b3be90d10b6096753f4cb909073b358ffca7cabda7faff2e114",
+      "adaptation": "Resolve FARM root relative to the repository instead of a DGX absolute path. Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-strong-validation/scripts/prepare_holdout.py",
+      "source": "DGX/farm/experiments/20260905-strong-validation/scripts/prepare_holdout.py",
+      "source_sha256": "d2d23364dd26d8fa4a0894ead4d384f249e926f339e2b1a0f8bac74d0af75984",
+      "release_sha256": "570ce3a44f324c6004e76b1fe1ed43453a45b442b23fcd4ed96b87cad590c055",
+      "adaptation": "Resolve FARM root relative to the repository instead of a DGX absolute path. Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-strong-validation/scripts/probe_training_numerics.py",
+      "source": "DGX/farm/experiments/20260905-strong-validation/scripts/probe_training_numerics.py",
+      "source_sha256": "de06ed7a339383d8175cfe4f6a8aa7eba68d3d559fb3c118ed52e74c71d559b3",
+      "release_sha256": "ae30dfa5baa7e16bfeeb25b2da82a53cfcf2a4d05a18ffba52dd6b10d122994e",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-strong-validation/scripts/probe_training_trajectory.py",
+      "source": "DGX/farm/experiments/20260905-strong-validation/scripts/probe_training_trajectory.py",
+      "source_sha256": "f482d2b6ecf6a56543f7dbc1345d578ed3f963df9c8fe78fa884fcc6303896a6",
+      "release_sha256": "ee95737eeb27360a6ca7ae164c62f3d01acbabba1ce6ed36d90f42cfd8536cd4",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-strong-validation/scripts/retrieval_metrics.py",
+      "source": "DGX/farm/experiments/20260905-strong-validation/scripts/retrieval_metrics.py",
+      "source_sha256": "76a674c0c47b0ed73b8844c122db228f01a18087f69f35cbc30bada61e6c44d3"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-strong-validation/scripts/test_retrieval_metrics.py",
+      "source": "DGX/farm/experiments/20260905-strong-validation/scripts/test_retrieval_metrics.py",
+      "source_sha256": "963fcf95964f15fc682113bfaec250114bfde4b115c1f748775fb203a40a71ae"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-training-five-techniques-plan/audit_training_data.py",
+      "source": "workstation/FARM/experiments/20260905-training-five-techniques-plan/audit_training_data.py",
+      "source_sha256": "0fb09df10947c8597574b47b4741f62696fcbb1bd1e09a5ca99541ca89bdf7d7"
+    },
+    {
+      "path": "research/FARM/experiments/20260905-training-five-techniques-plan/collect_existing_baselines.py",
+      "source": "workstation/FARM/experiments/20260905-training-five-techniques-plan/collect_existing_baselines.py",
+      "source_sha256": "6395fb28193ec27e5ae8ae6bb7ae9c8f3c9b73f9e783e17c567985e6cd846690",
+      "release_sha256": "f187ba8ca3cc3aa68260d977e6beae6cff8922573cae9b52e7a96a201a309398",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-training-root-cause-audit/candidate_and_error_audit.py",
+      "source": "DGX/farm/experiments/20260905-training-root-cause-audit/candidate_and_error_audit.py",
+      "source_sha256": "50c25dbd7363993c2ac197683f2eb639eee2bb84913ce5f690bb2fc91f6baaf2",
+      "release_sha256": "714c30a946fdaaad60be893dd13617b8a63b184b65ae9e6bb47f93a4777599f8",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-training-root-cause-audit/embedding_diagnostics.py",
+      "source": "DGX/farm/experiments/20260905-training-root-cause-audit/embedding_diagnostics.py",
+      "source_sha256": "33114dbf27601818e833f3e2dfd9cdaffeda38dc31155b6b31a4420f3502cba4",
+      "release_sha256": "7620b7507b2c6221b78bdc24a3d50c7adbfecc402e7b6bb1b4b1da0ddda0c739",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905-training-root-cause-audit/real_gradient_probe.py",
+      "source": "DGX/farm/experiments/20260905-training-root-cause-audit/real_gradient_probe.py",
+      "source_sha256": "d67ff01aa2cadb116581394b381daf0de078feac209b3777b836ee2c96a8816e",
+      "release_sha256": "1c13afd3d5f32e25793c4acf7fa386da3b2fb2514c31991078c1b33d094b7557",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/diagnostics/legacy_compiler_regression.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/diagnostics/legacy_compiler_regression.py",
+      "source_sha256": "7fcd01d92a5b4e9d85be9983caeb8d4112aa595dc08e676d7b08816b09d2267b"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/diagnostics/schema_contract_regression.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/diagnostics/schema_contract_regression.py",
+      "source_sha256": "c1210722c669c6d0903a8a2f27e448919e07a74d575a258382a9d20877bd10f9"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/scripts/audit_configuration_inputs.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/scripts/audit_configuration_inputs.py",
+      "source_sha256": "7a1ab149dc0bba3aabca9560aa671d8696dae0311e8275dd8f24a4978ab2d6d9"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/scripts/build_schema_sidecar.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/scripts/build_schema_sidecar.py",
+      "source_sha256": "97439f16e0d0f7dfe0f795f40c658da84237beb181a11b6f55aeedf16a51087a"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/scripts/verify_architecture.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/scripts/verify_architecture.py",
+      "source_sha256": "c88010e866a170a64babf8caa362d7a63ce75e73a7620f34c20a07484fdcd7b9"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/src/farm_arch/__init__.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/src/farm_arch/__init__.py",
+      "source_sha256": "549730eb8d7552d979b178b463d6ff304533344d9cbcc369d355af5c7581c3f1"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/src/farm_arch/configuration.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/src/farm_arch/configuration.py",
+      "source_sha256": "2e7b43c84f33bfd88ca45c13dd7832716ce472c84a963729b3654c7cc5811b23"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/src/farm_arch/schema.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/src/farm_arch/schema.py",
+      "source_sha256": "94a0a3c041391ca9544615572f85bb52512e4e4e3e9fe07ff85d05b413bbb377"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/src/farm_arch/sidecar.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/src/farm_arch/sidecar.py",
+      "source_sha256": "88d2e1d73083ca8a1b0d94dcaf25c5751a9eec21a9f9f372fae808a9f3450db4"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/tests/test_configuration.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/tests/test_configuration.py",
+      "source_sha256": "d0ec41d6e0d4933629ba8f7b5f033dfa83a7143ad1224b9c40053e7e298fca86"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/tests/test_schema.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/tests/test_schema.py",
+      "source_sha256": "d5af2439354c9d5aed2cf4bd90a0db83a02615ec96fcff3ae8f762a9c300e7a7"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/tests/test_sidecar.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/tests/test_sidecar.py",
+      "source_sha256": "0c9c7b32ad37f374fb9e781998e36195452739d682ead4e32c81a4df508dd946"
+    },
+    {
+      "path": "research/FARM/experiments/20260905T0848KST-farm-architecture-research/tests/test_source_index.py",
+      "source": "workstation/FARM/experiments/20260905T0848KST-farm-architecture-research/tests/test_source_index.py",
+      "source_sha256": "470a63636661dd39bc9d8448cd28fd7474679d2edf23f4825a8b362e4e98f9fe"
+    },
+    {
+      "path": "research/FARM/debug_rag.py",
+      "source": "workstation/FARM/debug_rag.py",
+      "source_sha256": "02a0088d96e16dfbd5676df76c1a63ea445cbdb2de01bed50258a3acd4fcd17a"
+    },
+    {
+      "path": "research/FARM/diag2.py",
+      "source": "DGX/farm/diag2.py",
+      "source_sha256": "a761f0b4978a7bdd9090b0149f1dca7480a3d4d46f61a739cd03727e2ad1bd22"
+    },
+    {
+      "path": "research/FARM/diag3.py",
+      "source": "DGX/farm/diag3.py",
+      "source_sha256": "732b4c83325b3ae591f003894622ad17d847e68785cac62ac3ae5253210fea67"
+    },
+    {
+      "path": "research/FARM/diag4.py",
+      "source": "DGX/farm/diag4.py",
+      "source_sha256": "90a08bf0b941dfa93860cd31cc892a83dd1528d9a41844cb3f3923e6571436a2"
+    },
+    {
+      "path": "research/FARM/diag5.py",
+      "source": "DGX/farm/diag5.py",
+      "source_sha256": "c8c549b583b59084ceaf6878c34e635e94f3fdf0f9ec4d49256eb20a4666811b"
+    },
+    {
+      "path": "research/FARM/diag6.py",
+      "source": "DGX/farm/diag6.py",
+      "source_sha256": "af50cc353e36e55338b7b5446a1ce4099c0f7f0807ead52fba793ee40aaa9df7"
+    },
+    {
+      "path": "research/FARM/diag_bottleneck.py",
+      "source": "DGX/farm/diag_bottleneck.py",
+      "source_sha256": "6941b6b8d463985f6b9d9dbba24dcb80ff55d7c5207c91badd8db8378c026381"
+    },
+    {
+      "path": "research/FARM/diag_channel.py",
+      "source": "DGX/farm/diag_channel.py",
+      "source_sha256": "6a817cc566baf9e6dd71ecebe2fcb73aaf4d37d98a9702e4c0add5b79f50584b"
+    },
+    {
+      "path": "research/FARM/e2e_applet.py",
+      "source": "DGX/farm/e2e_applet.py",
+      "source_sha256": "c52abcd7d8bfb642b1835f4f697266f9f038f718d8125b71d8660f4230f2b123"
+    },
+    {
+      "path": "research/FARM/eval/__init__.py",
+      "source": "workstation/FARM/eval/__init__.py",
+      "source_sha256": "041ecb616967e364ad91d76c8f122bada74be5b2398697114557541b1e0e81fa"
+    },
+    {
+      "path": "research/FARM/eval/debug_failing_tests.py",
+      "source": "workstation/FARM/eval/debug_failing_tests.py",
+      "source_sha256": "a3e47b0878b40e99446cd9f1b69239a939ebae57c6bb952a65871b53d03b32d1"
+    },
+    {
+      "path": "research/FARM/eval/debug_selector.py",
+      "source": "workstation/FARM/eval/debug_selector.py",
+      "source_sha256": "ef66e5a1b8fc86a55f7d176bf63fe48d9f14e6a30e116bdff24787d67c5a84b4"
+    },
+    {
+      "path": "research/FARM/eval/debug_test003.py",
+      "source": "workstation/FARM/eval/debug_test003.py",
+      "source_sha256": "01f74ed556603221ff78f41f06afce3edd0740e2391c18bf8d38abd73a2a06f5"
+    },
+    {
+      "path": "research/FARM/eval/evaluate_e2e.py",
+      "source": "workstation/FARM/eval/evaluate_e2e.py",
+      "source_sha256": "1736902b5e3d1624bf97b75410c79f281e7f9c605dda91ddeb6816535313038c"
+    },
+    {
+      "path": "research/FARM/eval/evaluate_rag.py",
+      "source": "workstation/FARM/eval/evaluate_rag.py",
+      "source_sha256": "c47affd01e54a5df84de09c7015cde5e3cd65aa3c1aee2dcd35022e65e61fcab"
+    },
+    {
+      "path": "research/FARM/eval/ragas_metrics.py",
+      "source": "workstation/FARM/eval/ragas_metrics.py",
+      "source_sha256": "fdfa0a3107e80d5479d4aa4539371ae0d2fbc7f6e60d8856f1ddbedb1ccaac57"
+    },
+    {
+      "path": "research/FARM/eval/run_agentic_eval.py",
+      "source": "workstation/FARM/eval/run_agentic_eval.py",
+      "source_sha256": "52f87c853ff00a8308a2de2d2b0bb817f88172a9c0adb196e2955f924b276741"
+    },
+    {
+      "path": "research/FARM/eval/targe_comparison/convert_farm_to_targe.py",
+      "source": "workstation/FARM/eval/targe_comparison/convert_farm_to_targe.py",
+      "source_sha256": "fe2cd7c2d61142df8999cd70debdd419c0e7945871b982cc87e4fe8454de5128"
+    },
+    {
+      "path": "research/FARM/eval/targe_comparison/evaluate_farm_service_level.py",
+      "source": "workstation/FARM/eval/targe_comparison/evaluate_farm_service_level.py",
+      "source_sha256": "7cf32ff47fbd66f39203531af13c942d3557bd96915584252fbc5ba3449cf5e1"
+    },
+    {
+      "path": "research/FARM/eval/targe_comparison/setup_targe_with_farm_data.py",
+      "source": "workstation/FARM/eval/targe_comparison/setup_targe_with_farm_data.py",
+      "source_sha256": "98f883abb9af0cce8a3b035cc0c9bd1f998aa4a7fa9c4ec7bc341e665210a3b6"
+    },
+    {
+      "path": "research/FARM/eval_stage1.py",
+      "source": "DGX/farm/eval_stage1.py",
+      "source_sha256": "a88efb2556337fecadf183255d64822e3c718c5cbec8b651f3d54ca34c29d145"
+    },
+    {
+      "path": "research/FARM/farm/__init__.py",
+      "source": "workstation/FARM/farm/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "research/FARM/farm/dataset_v2.py",
+      "source": "workstation/FARM/farm/dataset_v2.py",
+      "source_sha256": "4a95a435858921d32990b777afd9789fe390d2614f386d2159c15577bbc57bc2"
+    },
+    {
+      "path": "research/FARM/farm/render.py",
+      "source": "DGX/farm/farm/render.py",
+      "source_sha256": "798eea4c9b162956e2e5e47e02087c174b02c90c0014c3c5869abf6a6195ee06"
+    },
+    {
+      "path": "research/FARM/inflation.py",
+      "source": "DGX/farm/inflation.py",
+      "source_sha256": "f19b538ba642bb9bee45c42a06573542ab9b8d5b698f9edc2531e9b048d40fa1"
+    },
+    {
+      "path": "research/FARM/jobs/ab_planner_query.py",
+      "source": "DGX/farm/jobs/ab_planner_query.py",
+      "source_sha256": "414433590b6b4c07443b4289cf3a078127460719fd73a7e3884cff7a7c0a1d52"
+    },
+    {
+      "path": "research/FARM/jobs/applet_lab.py",
+      "source": "DGX/farm/jobs/applet_lab.py",
+      "source_sha256": "38054901ba5f0b8963c0b4bf97adf432bc08b47a6927acc1636bee48c13f833c"
+    },
+    {
+      "path": "research/FARM/jobs/arms.py",
+      "source": "DGX/farm/jobs/arms.py",
+      "source_sha256": "ab2b8d04cd4ed1ce5a6e11fdf75f73bbeb8618cccefb7ae804d89b2dd394e0fd"
+    },
+    {
+      "path": "research/FARM/jobs/arms_cloud.py",
+      "source": "DGX/farm/jobs/arms_cloud.py",
+      "source_sha256": "43d7a937ab304ccccb2a399bdcbc0a0421354d05dfed12adfa4772ac34971598"
+    },
+    {
+      "path": "research/FARM/jobs/arms_cloud_asrun.py",
+      "source": "DGX/farm/jobs/arms_cloud_asrun.py",
+      "source_sha256": "e9805c00a669caaf090fd57a03dda5a0fa978e12bda8fff03afa0607b032680b"
+    },
+    {
+      "path": "research/FARM/jobs/arms_fixed.py",
+      "source": "DGX/farm/jobs/arms_fixed.py",
+      "source_sha256": "c65eeb0596267315ac2f688e0989c4de244811c8a2a119a8e3384475bfa9e18b"
+    },
+    {
+      "path": "research/FARM/jobs/arms_lib.py",
+      "source": "DGX/farm/jobs/arms_lib.py",
+      "source_sha256": "d907476c97cf884ddb3bc19768efc9555633a265f30ee8e63918d53e78b21233"
+    },
+    {
+      "path": "research/FARM/jobs/bindeval.py",
+      "source": "DGX/farm/jobs/bindeval.py",
+      "source_sha256": "29fb9970dfbf752ef69f41bbe81e7b24aa4fb9116d41a354025ad6d0e07fc96e"
+    },
+    {
+      "path": "research/FARM/jobs/bindlab.py",
+      "source": "DGX/farm/jobs/bindlab.py",
+      "source_sha256": "4baffcd2269b6c4b2bf110c858b604f9e480f5c267efd4b37f844efab5d74079"
+    },
+    {
+      "path": "research/FARM/jobs/check_defects.py",
+      "source": "DGX/farm/jobs/check_defects.py",
+      "source_sha256": "66696c1f853bfb34d2f2a0c3ec699387cf83d73de82bb3656e98d5f5cbcf2b32"
+    },
+    {
+      "path": "research/FARM/jobs/check_leakage.py",
+      "source": "DGX/farm/jobs/check_leakage.py",
+      "source_sha256": "204faab1cafbf8b191c3a0adb97d9e2879d43adb125bd9f0322073d83390c564"
+    },
+    {
+      "path": "research/FARM/jobs/compare_all.py",
+      "source": "DGX/farm/jobs/compare_all.py",
+      "source_sha256": "cec8e0766b52598d75a373f7d857e0970ef255a5588f52ef81472d6eaf3a318f"
+    },
+    {
+      "path": "research/FARM/jobs/eval_runC.py",
+      "source": "DGX/farm/jobs/eval_runC.py",
+      "source_sha256": "5ac72371fe1b18e6e940734297396e6ba129a613a9519792947a2d9e652dc76f"
+    },
+    {
+      "path": "research/FARM/jobs/indep1.py",
+      "source": "DGX/farm/jobs/indep1.py",
+      "source_sha256": "70a05673842502dc25f818719ccc31438b1113e5ba0da06521ec3310ae3b92d0"
+    },
+    {
+      "path": "research/FARM/jobs/indep2.py",
+      "source": "DGX/farm/jobs/indep2.py",
+      "source_sha256": "bfb102b29b4c46543bf3990403a9d8c7e1cfda0b69ba8c53c0902e0598ef0104"
+    },
+    {
+      "path": "research/FARM/jobs/indep3.py",
+      "source": "DGX/farm/jobs/indep3.py",
+      "source_sha256": "62aefe774019744afae83cc8d24838c3795746bd75cc355258a09d987c92acba"
+    },
+    {
+      "path": "research/FARM/jobs/indep4.py",
+      "source": "DGX/farm/jobs/indep4.py",
+      "source_sha256": "0f6649523f7f02b78d230132c847f51baa71b99aaad39767a0b9c57cd42cd6b0"
+    },
+    {
+      "path": "research/FARM/jobs/indep5.py",
+      "source": "DGX/farm/jobs/indep5.py",
+      "source_sha256": "1fb5a26e7c55e298b2e0616e0b6e5b6054db4729ae47fe0ebb2e10ef4a7effcd"
+    },
+    {
+      "path": "research/FARM/jobs/lift.py",
+      "source": "DGX/farm/jobs/lift.py",
+      "source_sha256": "012a667bca3b5397f4924690b2e9bf715621624393f87918eacebaf406c871ef"
+    },
+    {
+      "path": "research/FARM/jobs/llmprobe.py",
+      "source": "DGX/farm/jobs/llmprobe.py",
+      "source_sha256": "5eb027b9f9b3a6e0e531a325f1eeaae11cd4ac6cbfc4a386b54dc1c29408bffd"
+    },
+    {
+      "path": "research/FARM/jobs/mine_negatives.py",
+      "source": "DGX/farm/jobs/mine_negatives.py",
+      "source_sha256": "deab2a6d60d2626f07c6bb528d3414df3132ec5fa1877cec791da65f78415d2f"
+    },
+    {
+      "path": "research/FARM/jobs/mutation_fixed.py",
+      "source": "DGX/farm/jobs/mutation_fixed.py",
+      "source_sha256": "92c58efc9b4302ee42bf1268993f7744d68edde3fb9c6fcc6b8fd3946f34da31"
+    },
+    {
+      "path": "research/FARM/jobs/mutation_test.py",
+      "source": "DGX/farm/jobs/mutation_test.py",
+      "source_sha256": "af04554c5b4daa32be64f3b88edf987b43b7bba37d080d1422b2b542928bfbec"
+    },
+    {
+      "path": "research/FARM/jobs/probe_a2.py",
+      "source": "DGX/farm/jobs/probe_a2.py",
+      "source_sha256": "b03d937327aea05358bd6bb648231743020c2b3a96ae7b747321fc806d3312c2"
+    },
+    {
+      "path": "research/FARM/jobs/probe_anchor.py",
+      "source": "DGX/farm/jobs/probe_anchor.py",
+      "source_sha256": "a0040c464b1924002742f99ddbea5bce4d8d47b59f10cf0057607f0fdae613a3"
+    },
+    {
+      "path": "research/FARM/jobs/probe_metrics.py",
+      "source": "DGX/farm/jobs/probe_metrics.py",
+      "source_sha256": "7e04b9f1c1d84974b3c898f969245cd6a4ef4ba4ed802a5f3ca6123955f670a2"
+    },
+    {
+      "path": "research/FARM/jobs/reproduce_stage1.py",
+      "source": "DGX/farm/jobs/reproduce_stage1.py",
+      "source_sha256": "84ebc04d82b36043db6b5d3c5cb179605a7895131c99a1d941d73af0aa8aebe3"
+    },
+    {
+      "path": "research/FARM/jobs/runB.py",
+      "source": "DGX/farm/jobs/runB.py",
+      "source_sha256": "65aba2526b72b1bbf61ccc1677c664878cf9bec46895da86f11f306009fcd1d1"
+    },
+    {
+      "path": "research/FARM/jobs/runC.py",
+      "source": "DGX/farm/jobs/runC.py",
+      "source_sha256": "100d70430e0e634a0c8b2746da4fe670f4e6347192db7868880f78ec29edc60d"
+    },
+    {
+      "path": "research/FARM/jobs/run_ablation_x.py",
+      "source": "DGX/farm/jobs/run_ablation_x.py",
+      "source_sha256": "988e76736a418439ecf4a7d4db8e1d2cbccb23e0773d64140f0a7321d11f5ce1"
+    },
+    {
+      "path": "research/FARM/jobs/split_data_dedup.py",
+      "source": "DGX/farm/jobs/split_data_dedup.py",
+      "source_sha256": "2d188c75270906b9e144bb75c0a1501efaa08d97a5b14216f654d45ea72fa03c"
+    },
+    {
+      "path": "research/FARM/jobs/tests_wiring/conftest.py",
+      "source": "DGX/farm/jobs/tests_wiring/conftest.py",
+      "source_sha256": "58e60989dbfad51021732bd58d354cb131d3f27e900ed1f1da04a898bafd53e0"
+    },
+    {
+      "path": "research/FARM/jobs/tests_wiring/test_wiring.py",
+      "source": "DGX/farm/jobs/tests_wiring/test_wiring.py",
+      "source_sha256": "28bab4a78d43fd441c79e6107cfcd0412dbb68aee2ea1bc55fc7803995bb0caa"
+    },
+    {
+      "path": "research/FARM/jobs/wiring/patch_wiring.py",
+      "source": "DGX/farm/jobs/wiring/patch_wiring.py",
+      "source_sha256": "55a43a507f3661de9a0e9557585a7fcc5ceaf428bfab35983359c3b5de6aaa95"
+    },
+    {
+      "path": "research/FARM/likeforlike.py",
+      "source": "DGX/farm/likeforlike.py",
+      "source_sha256": "beefc9f6a6858b5ac4c90c716023622e54e0227b63646ee8ab35420ce215980d"
+    },
+    {
+      "path": "research/FARM/mine_negatives.py",
+      "source": "DGX/farm/mine_negatives.py",
+      "source_sha256": "9e56e1a76199c835cf876c3830b6012ec349d484b117085d5e97ed3086297173"
+    },
+    {
+      "path": "research/FARM/mutate_eval.py",
+      "source": "DGX/farm/mutate_eval.py",
+      "source_sha256": "fc43ed787ba033d7ec6e0f265d8618a8ed9229c53964a8708ff61ebaee3f56b3"
+    },
+    {
+      "path": "research/FARM/mutate_eval2.py",
+      "source": "DGX/farm/mutate_eval2.py",
+      "source_sha256": "133da58326a44b0b104f8eb66dd70e1ba2568dfdbe1f1ed87e5fc4ed9a001501"
+    },
+    {
+      "path": "research/FARM/patch_bs.py",
+      "source": "DGX/farm/patch_bs.py",
+      "source_sha256": "a61eb76c3e595d48777ad57e767958a5db82eb07163134cd432ba4ebd685cb10"
+    },
+    {
+      "path": "research/FARM/patch_names.py",
+      "source": "DGX/farm/patch_names.py",
+      "source_sha256": "ff1ec573e858ebcd1f1970ad0e88ca5d1e008ac567fbc223c59317dc56db20c7"
+    },
+    {
+      "path": "research/FARM/precompute_candidates.py",
+      "source": "DGX/farm/precompute_candidates.py",
+      "source_sha256": "9017c56984eb183e94a11bb55f33c49eb4a26221dd4d312e71bb96459e6efc10"
+    },
+    {
+      "path": "research/FARM/rag/__init__.py",
+      "source": "workstation/FARM/rag/__init__.py",
+      "source_sha256": "a332c2afea575de217cbc239d2974177ad0619cc83d9c78e13bca010332503f9"
+    },
+    {
+      "path": "research/FARM/rag/config.py",
+      "source": "workstation/FARM/rag/config.py",
+      "source_sha256": "bfb8b91396e6de222b5c51dac4e32bd5a937c5af32804b756ca5b8f34c300153"
+    },
+    {
+      "path": "research/FARM/rag/embeddings.py",
+      "source": "workstation/FARM/rag/embeddings.py",
+      "source_sha256": "62eba4a87be276460d7cac52665e025aeaf2f4cd8e78cbc2ba228c6d3f03cdf9"
+    },
+    {
+      "path": "research/FARM/rag/evaluate_rag.py",
+      "source": "workstation/FARM/rag/evaluate_rag.py",
+      "source_sha256": "08be3ce672420b8ce17df7c2642dc0ed1539ae4d0e8ef09347000295c4075994"
+    },
+    {
+      "path": "research/FARM/rag/indexer.py",
+      "source": "workstation/FARM/rag/indexer.py",
+      "source_sha256": "11667859b1a87953be37eb85aad2ab4343215ffc273c60f89d1f6557ce6319b3"
+    },
+    {
+      "path": "research/FARM/rag/retriever.py",
+      "source": "workstation/FARM/rag/retriever.py",
+      "source_sha256": "1fcd88f967f37b31d6ade2e36efb54e55b61b5688a3c9e732aa471d20d41b449"
+    },
+    {
+      "path": "research/FARM/rag/test_retrieval.py",
+      "source": "workstation/FARM/rag/test_retrieval.py",
+      "source_sha256": "ece097e4feb03e7df18d60bb8b1f452ed0a5e9877e82d6a6a4dc0636bff3a6a0"
+    },
+    {
+      "path": "research/FARM/recall_curve.py",
+      "source": "DGX/farm/recall_curve.py",
+      "source_sha256": "39053703e17f996ebb37cac8c443e75fb37e6eb77db4602a82b4336d3b7da7a6"
+    },
+    {
+      "path": "research/FARM/recompute_base.py",
+      "source": "DGX/farm/recompute_base.py",
+      "source_sha256": "c6a9f28d69bc5f5d806767c9ff1b528f2913c0f6cdb7538f75ddeaeec5054b96"
+    },
+    {
+      "path": "research/FARM/reproduce_stage1.py",
+      "source": "DGX/farm/reproduce_stage1.py",
+      "source_sha256": "6bbeb74153dee5846b56a2d9e6da7222858eca7014d1b343a7c5313a703f67e1"
+    },
+    {
+      "path": "research/FARM/rerank_clean.py",
+      "source": "DGX/farm/rerank_clean.py",
+      "source_sha256": "c9c0a8d1663fc0ee4892ba4b9d3255aafd7bf2d2b4473db7b8e6df62469ac362"
+    },
+    {
+      "path": "research/FARM/rerank_rebuilt.py",
+      "source": "DGX/farm/rerank_rebuilt.py",
+      "source_sha256": "9a9227f2e45adc4d2402ede08b25967e3c8862ad5ca859f577897173449c98c6"
+    },
+    {
+      "path": "research/FARM/rerank_v2.py",
+      "source": "DGX/farm/rerank_v2.py",
+      "source_sha256": "62fa14b987a1b04fbaa23448ec121495509cb3931567960fc611b67038a37669"
+    },
+    {
+      "path": "research/FARM/rerank_v4.py",
+      "source": "DGX/farm/rerank_v4.py",
+      "source_sha256": "2b2829233881bd7a80fc004712514c7e1bdf67f7ba6843522db3574e6165d030"
+    },
+    {
+      "path": "research/FARM/retrain_clean.py",
+      "source": "DGX/farm/retrain_clean.py",
+      "source_sha256": "2a5e5b5e8e1a85cfdddc1bf3796ac5db06691f324491f757dfa782e97919f1df"
+    },
+    {
+      "path": "research/FARM/scorer_sweep.py",
+      "source": "DGX/farm/scorer_sweep.py",
+      "source_sha256": "b0001b3ba4fbedf056329e1ca82cceb575ff181800e56a072d88c020ed8717da"
+    },
+    {
+      "path": "research/FARM/scripts/figures/generate_all_figures.py",
+      "source": "workstation/FARM/scripts/figures/generate_all_figures.py",
+      "source_sha256": "90eaacf8483fadbd7e05de51c4450a1b9bff88e0b690d487c801790630713d59"
+    },
+    {
+      "path": "research/FARM/scripts/generate_reference_bindings.py",
+      "source": "workstation/FARM/scripts/generate_reference_bindings.py",
+      "source_sha256": "3125daa7a38ad3c76f5bb3f8eba283816286c034576c99cbbb6b44f8447e9138"
+    },
+    {
+      "path": "research/FARM/smoke_eval_v2.py",
+      "source": "workstation/FARM/smoke_eval_v2.py",
+      "source_sha256": "d4e2bea31342e1ba756a7c2df7e7f4d37891814fe598dd5fe9e828ba0c7d0407"
+    },
+    {
+      "path": "research/FARM/smoke_train_v2.py",
+      "source": "workstation/FARM/smoke_train_v2.py",
+      "source_sha256": "d304e6cf6fcbb56e7c6b9c1b25b9fe658c3ab0b9cf483801014d601cab12403a"
+    },
+    {
+      "path": "research/FARM/summarise_enc.py",
+      "source": "DGX/farm/summarise_enc.py",
+      "source_sha256": "6e257cbff210b90975614891162b63f9ce3a0cb6aff79302851b95f63c71fa05"
+    },
+    {
+      "path": "research/FARM/tests/test_dataset_v2.py",
+      "source": "workstation/FARM/tests/test_dataset_v2.py",
+      "source_sha256": "d8ea3278e3edf254ae8a71ab505176648828f5b4c16be1f3a339d14ceee42e22"
+    },
+    {
+      "path": "research/FARM/train/__init__.py",
+      "source": "workstation/FARM/train/__init__.py",
+      "source_sha256": "01b299d69371975b44ecfd48a3894f8cc812bd48af4768ed676d1691c86db38d"
+    },
+    {
+      "path": "research/FARM/train/config.py",
+      "source": "workstation/FARM/train/config.py",
+      "source_sha256": "a4f479b08f4fb28d00d1cd58e1f1afa92e43baef02c25022ed2580d7869e5b1f"
+    },
+    {
+      "path": "research/FARM/train/dataset.py",
+      "source": "workstation/FARM/train/dataset.py",
+      "source_sha256": "e443a4336c91fd95434da490d941cb18b14a24e0deaed87ea4f865764283865a"
+    },
+    {
+      "path": "research/FARM/train/evaluate.py",
+      "source": "workstation/FARM/train/evaluate.py",
+      "source_sha256": "66377d36031a4e7763e6fb4c031a0dbcc64e6f2a6e1d575c05b1f2e5c09bf27d"
+    },
+    {
+      "path": "research/FARM/train/inspect_model.py",
+      "source": "workstation/FARM/train/inspect_model.py",
+      "source_sha256": "96add4d69139478ff1a45a425c5ceaecf1a0c7149736fcba89e1b2b8ab99c329"
+    },
+    {
+      "path": "research/FARM/train/train_action.py",
+      "source": "workstation/FARM/train/train_action.py",
+      "source_sha256": "7839d99b2f5d3d3b08caa2add4cb4095736bf1d655ba9bad932775488d6f25f6"
+    },
+    {
+      "path": "research/FARM/train/train_lora_ablation.py",
+      "source": "workstation/FARM/train/train_lora_ablation.py",
+      "source_sha256": "435f560afc3ca00dc79b3b54cf8bc580e3c1da2e6c745adc3a7d3166245fc848"
+    },
+    {
+      "path": "research/FARM/train/train_trigger.py",
+      "source": "workstation/FARM/train/train_trigger.py",
+      "source_sha256": "dd29302247c4280656f5b85dcffcbe08e607818050335b5996c241c6944869c3"
+    },
+    {
+      "path": "research/FARM/train/verify_layer_freezing.py",
+      "source": "DGX/farm/train/verify_layer_freezing.py",
+      "source_sha256": "9ce03b617c3292156c1413898b9322bc4059aeec573357d7f4909c6ba673fddd"
+    },
+    {
+      "path": "research/FARM/train_config.json",
+      "source": "workstation/FARM/train_config.json",
+      "source_sha256": "b2f3da3ee402037d18b8181bce21182af526384f3165b2236fd304f69003ba19"
+    },
+    {
+      "path": "research/FARM/train_stage1.py",
+      "source": "DGX/farm/train_stage1.py",
+      "source_sha256": "8ade0dec9fa40f1de2160b9dc87bdf9740079605c8451c9d75cd96a27e493586"
+    },
+    {
+      "path": "research/binding/check_dgx.py",
+      "source": "DGX/binding/check_dgx.py",
+      "source_sha256": "ed72745ff3102c411c6bd12042f74b2f0ffef574abba55702be3ba22dcecc5fe"
+    },
+    {
+      "path": "research/binding/PROTOCOL.md",
+      "source": "DGX/binding/PROTOCOL.md",
+      "source_sha256": "8d0b710d0d415e75674ef0843cd83f35ffeb5ef2872f96ef9421e967607a5239"
+    },
+    {
+      "path": "research/binding/scripts/validate_run.py",
+      "source": "DGX/binding/scripts/validate_run.py",
+      "source_sha256": "60917ed17b2f924d16f66731a540072bf12727c46b7fbe838db1419c45db6539"
+    },
+    {
+      "path": "research/binding/scripts/workflows.py",
+      "source": "DGX/binding/scripts/workflows.py",
+      "source_sha256": "6d47a1db6595227d70cc2a9976f6f35c0e4eb5e5ae44b7f5b0b60ac7239ba168"
+    },
+    {
+      "path": "research/binding/scripts/run_experiment.py",
+      "source": "DGX/binding/scripts/run_experiment.py",
+      "source_sha256": "78234dc7242682ec8ed7ccaa3dcc268a6db3f44ed63d5b927ae75d0261301894"
+    },
+    {
+      "path": "research/binding/scripts/supervise.py",
+      "source": "DGX/binding/scripts/supervise.py",
+      "source_sha256": "17166b388e566374be7869331df3be1219f11881986ee2c6699c71fb437097c9"
+    },
+    {
+      "path": "research/binding/scripts/build_cases.py",
+      "source": "DGX/binding/scripts/build_cases.py",
+      "source_sha256": "5acbd9f9383527d7a1466c9fa5e130bd05011ea7843c3b5ee3455b80c0e95aa3"
+    },
+    {
+      "path": "research/binding/scripts/common.py",
+      "source": "DGX/binding/scripts/common.py",
+      "source_sha256": "fa6a616d095f1b3d31e671f81d1600e37aa86f5603d9b77c987d718c3edf533b"
+    },
+    {
+      "path": "research/binding/scripts/plot_results.py",
+      "source": "DGX/binding/scripts/plot_results.py",
+      "source_sha256": "223366414511ca8249dc56f7aab3d2efb006b90ac2b4ba1fb56211e5157d1466"
+    },
+    {
+      "path": "research/binding/scripts/evaluate.py",
+      "source": "DGX/binding/scripts/evaluate.py",
+      "source_sha256": "d1f243e37ff89711d81ba0161f25513d2e6a69645cc1518538ebbb6526888369"
+    },
+    {
+      "path": "research/binding/scripts/output_health.py",
+      "source": "DGX/binding/scripts/output_health.py",
+      "source_sha256": "a3bdcfbb7472f0a2d885194496cf4d8094b1b13da0aa7d8193e3fe958281d03d"
+    },
+    {
+      "path": "research/binding/scripts/cloud.py",
+      "source": "DGX/binding/scripts/cloud.py",
+      "source_sha256": "14e14fa4a0ba591d3354c6c9f606a956173d847c8eb605a52bd6fe10f8b30d04"
+    },
+    {
+      "path": "research/binding/scripts/summarize.py",
+      "source": "DGX/binding/scripts/summarize.py",
+      "source_sha256": "e5eb86670a1a01a4a521c4f12e8f62af7491628583274730716a8cee05fc4e71"
+    },
+    {
+      "path": "research/binding/reference_code/configuration.py",
+      "source": "DGX/binding/reference_code/configuration.py",
+      "source_sha256": "2e7b43c84f33bfd88ca45c13dd7832716ce472c84a963729b3654c7cc5811b23"
+    },
+    {
+      "path": "research/binding/tests/test_output_health.py",
+      "source": "DGX/binding/tests/test_output_health.py",
+      "source_sha256": "e90d4c05728b17ba45f3f6daf598f26b4ecbfea4b3367d58d5bde182cc92d2b6"
+    },
+    {
+      "path": "research/binding/tests/test_benchmark.py",
+      "source": "DGX/binding/tests/test_benchmark.py",
+      "source_sha256": "bd4eb608fb9d374b28e97fa526ba2fd0ee918db5b775e686c31a4ac247a162d7"
+    },
+    {
+      "path": "research/structural/PROTOCOL.md",
+      "source": "workstation/structural/PROTOCOL.md",
+      "source_sha256": "abadff61a108da95ec1571886b7aebdc23aeaecaf3ecb8da03a7e0cd4e9807c4"
+    },
+    {
+      "path": "research/structural/scripts/prepare_inputs.py",
+      "source": "workstation/structural/scripts/prepare_inputs.py",
+      "source_sha256": "5e47dd51e075a59d17772e3e0b8f887c2f7e85f9353d128d8101a69b192db0a3",
+      "release_sha256": "7ae1dd1e79195b0177c1a970ed2993109660fcd562c8132c80917b98c85fd359",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/structural/scripts/workflows.py",
+      "source": "workstation/structural/scripts/workflows.py",
+      "source_sha256": "6d47a1db6595227d70cc2a9976f6f35c0e4eb5e5ae44b7f5b0b60ac7239ba168"
+    },
+    {
+      "path": "research/structural/scripts/run_experiment.py",
+      "source": "workstation/structural/scripts/run_experiment.py",
+      "source_sha256": "37fb02238bdd391741a10b5627c9062bfb47f840ff99123dd5ba382f7ec9ad3b"
+    },
+    {
+      "path": "research/structural/scripts/supervise.py",
+      "source": "workstation/structural/scripts/supervise.py",
+      "source_sha256": "d90baca0d5947b2b0c9be795ba8e568a690397ca0e156d1a5f47e16275975aa0"
+    },
+    {
+      "path": "research/structural/scripts/common.py",
+      "source": "workstation/structural/scripts/common.py",
+      "source_sha256": "fa6a616d095f1b3d31e671f81d1600e37aa86f5603d9b77c987d718c3edf533b"
+    },
+    {
+      "path": "research/structural/scripts/cloud.py",
+      "source": "workstation/structural/scripts/cloud.py",
+      "source_sha256": "2f3b086964cfa778f9830c48975d7f7e476bb5275d543d754ceb178305643be1"
+    },
+    {
+      "path": "research/structural/scripts/prepare_oracle.py",
+      "source": "workstation/structural/scripts/prepare_oracle.py",
+      "source_sha256": "fd84fe2657ff171b6a1bdc3201161993ca389fc1a4eddc374974d1512c50772a",
+      "release_sha256": "58b2c3ce2b68b791a92f45d69c64d82171c1ec30f50eb079086ff805682d7da8",
+      "adaptation": "Normalize packaging paths to the experiment directory."
+    },
+    {
+      "path": "research/structural/scripts/summarize.py",
+      "source": "workstation/structural/scripts/summarize.py",
+      "source_sha256": "23e694d90b3d314f37026345256f2731b94e5a43953e7a581480ee82bcf655cc"
+    },
+    {
+      "path": "research/structural/reference_code/configuration.py",
+      "source": "workstation/structural/reference_code/configuration.py",
+      "source_sha256": "2e7b43c84f33bfd88ca45c13dd7832716ce472c84a963729b3654c7cc5811b23"
+    },
+    {
+      "path": "research/structural/tests/test_workflows.py",
+      "source": "workstation/structural/tests/test_workflows.py",
+      "source_sha256": "d5c1bbbb8ddd9168f262314f864306c211a7551096e15f65ce81d68cfa59a62e"
+    },
+    {
+      "path": "research/semantic/PROTOCOL.md",
+      "source": "workstation/semantic/PROTOCOL.md",
+      "source_sha256": "6d36246168d5eb629cf9742a4d87ad68b8cdfebd7b599a013a6a0669570f85be"
+    },
+    {
+      "path": "research/semantic/scripts/build_review.py",
+      "source": "workstation/semantic/scripts/build_review.py",
+      "source_sha256": "a187120c55b71d14f2660500184ac1817642235171e87b852af5932404e3e5aa"
+    },
+    {
+      "path": "research/semantic/scripts/scoring.py",
+      "source": "workstation/semantic/scripts/scoring.py",
+      "source_sha256": "5de466a86470e4e3e2b3cb72d689a54aa83b77713f343151d65ddfedc0e8d132"
+    },
+    {
+      "path": "research/semantic/scripts/common.py",
+      "source": "workstation/semantic/scripts/common.py",
+      "source_sha256": "56dd2e63f0ab990e7856f8ce50dd8716be1f4c2ca6efb4edd2ea42af883be3be"
+    },
+    {
+      "path": "research/semantic/scripts/prepare.py",
+      "source": "workstation/semantic/scripts/prepare.py",
+      "source_sha256": "250fed04f3b1b9c8223ad6cd89a7171ec310f705f33689d9e175fb3cb9dda194"
+    },
+    {
+      "path": "research/semantic/scripts/build_references.py",
+      "source": "workstation/semantic/scripts/build_references.py",
+      "source_sha256": "32c6c64fb570c1313e8cbf4371295f4a7fbf3571025dca2862140ffa28029623"
+    },
+    {
+      "path": "research/semantic/scripts/score.py",
+      "source": "workstation/semantic/scripts/score.py",
+      "source_sha256": "32afee5c7856a7efb10a4d4dc9b043997f4155f01ac291081e10e79a32b4166f"
+    },
+    {
+      "path": "research/semantic/scripts/validate_preparation.py",
+      "source": "workstation/semantic/scripts/validate_preparation.py",
+      "source_sha256": "ecdefac2e96d613d7f884c27c1b564cd2e407b4fac61a72cdadcbe97530e1ffe"
+    },
+    {
+      "path": "research/semantic/scripts/annotate.py",
+      "source": "workstation/semantic/scripts/annotate.py",
+      "source_sha256": "087438203029c3e45d86993344e4bc6d2f4d844c8c7113e4a61d47b42a5a4e67"
+    },
+    {
+      "path": "research/semantic/scripts/reference.py",
+      "source": "workstation/semantic/scripts/reference.py",
+      "source_sha256": "9dd598d4dcf0001a9453f89d0d9ba3ca42b4d3f863dc18a1345ce924f04fa784"
+    },
+    {
+      "path": "research/semantic/scripts/evidence.py",
+      "source": "workstation/semantic/scripts/evidence.py",
+      "source_sha256": "f1022f83dc33c1afd8c832b898ed71b22ea605972e0801321a14811c84d408fa"
+    },
+    {
+      "path": "research/semantic/tests/test_scoring.py",
+      "source": "workstation/semantic/tests/test_scoring.py",
+      "source_sha256": "9d4ca24dc2ec2344d251c70ffc3d46bd1416a990a46097eafa7c9e424bffab5e"
+    },
+    {
+      "path": "src/farm_release/configuration.py",
+      "source": "DGX/binding/reference_code/configuration.py",
+      "source_sha256": "2e7b43c84f33bfd88ca45c13dd7832716ce472c84a963729b3654c7cc5811b23"
+    },
+    {
+      "path": "docs/reported_metrics.json",
+      "source": "workstation/FARM_revision/results/AUTHOR_REPORTED_METRICS.json",
+      "source_sha256": "86224fd5a48e3d8549bdb93e3395a07f8d82d763d4a223d67b8c95f93f729421"
+    },
+    {
+      "path": "research/FARM/remote/bindlab.py",
+      "source": "workstation/FARM/remote/bindlab.py",
+      "source_sha256": "4baffcd2269b6c4b2bf110c858b604f9e480f5c267efd4b37f844efab5d74079"
+    },
+    {
+      "path": "research/FARM/remote/jobs.sh",
+      "source": "workstation/FARM/remote/jobs.sh",
+      "source_sha256": "a124408b60d91376b82d170d04ed9caabda5229ac301c8e2f69b6133ebd3b25a"
+    },
+    {
+      "path": "research/FARM/remote/reproduce_stage1.py",
+      "source": "workstation/FARM/remote/reproduce_stage1.py",
+      "source_sha256": "84ebc04d82b36043db6b5d3c5cb179605a7895131c99a1d941d73af0aa8aebe3"
+    },
+    {
+      "path": "research/FARM/remote/bindeval.py",
+      "source": "workstation/FARM/remote/bindeval.py",
+      "source_sha256": "29fb9970dfbf752ef69f41bbe81e7b24aa4fb9116d41a354025ad6d0e07fc96e"
+    },
+    {
+      "path": "research/FARM/remote/check_leakage.py",
+      "source": "workstation/FARM/remote/check_leakage.py",
+      "source_sha256": "204faab1cafbf8b191c3a0adb97d9e2879d43adb125bd9f0322073d83390c564"
+    },
+    {
+      "path": "research/FARM/remote/run_ablation_x.py",
+      "source": "workstation/FARM/remote/run_ablation_x.py",
+      "source_sha256": "988e76736a418439ecf4a7d4db8e1d2cbccb23e0773d64140f0a7321d11f5ce1"
+    },
+    {
+      "path": "research/FARM/remote/llmprobe.py",
+      "source": "workstation/FARM/remote/llmprobe.py",
+      "source_sha256": "5eb027b9f9b3a6e0e531a325f1eeaae11cd4ac6cbfc4a386b54dc1c29408bffd"
+    },
+    {
+      "path": "research/FARM/remote/runB.py",
+      "source": "workstation/FARM/remote/runB.py",
+      "source_sha256": "65aba2526b72b1bbf61ccc1677c664878cf9bec46895da86f11f306009fcd1d1"
+    },
+    {
+      "path": "research/FARM/remote/applet_lab.py",
+      "source": "workstation/FARM/remote/applet_lab.py",
+      "source_sha256": "38054901ba5f0b8963c0b4bf97adf432bc08b47a6927acc1636bee48c13f833c"
+    },
+    {
+      "path": "research/FARM/remote/lift.py",
+      "source": "workstation/FARM/remote/lift.py",
+      "source_sha256": "012a667bca3b5397f4924690b2e9bf715621624393f87918eacebaf406c871ef"
+    },
+    {
+      "path": "research/FARM/remote/set_token.sh",
+      "source": "workstation/FARM/remote/set_token.sh",
+      "source_sha256": "0b3dfa4ef51db69c0bd86c1c60d5b7e4cf661bac2de7cd63490966889e1358dc"
+    },
+    {
+      "path": "research/FARM/remote/new_trainc.sh",
+      "source": "workstation/FARM/remote/new_trainc.sh",
+      "source_sha256": "fef434d0e97a4ffac29ab3df27a3318417b4ea8a4caef65aa799b6cca8590274"
+    },
+    {
+      "path": "research/FARM/remote/farm.ps1",
+      "source": "workstation/FARM/remote/farm.ps1",
+      "source_sha256": "15f18d6058b70ec916a0a8a0933d16cdb72662d8b69734edd7d242a102d13c84"
+    },
+    {
+      "path": "research/FARM/remote/runC.py",
+      "source": "workstation/FARM/remote/runC.py",
+      "source_sha256": "100d70430e0e634a0c8b2746da4fe670f4e6347192db7868880f78ec29edc60d"
+    },
+    {
+      "path": "research/FARM/remote/doctor.sh",
+      "source": "workstation/FARM/remote/doctor.sh",
+      "source_sha256": "d286c8b3c6806eb3d5c4cd0d3f6a462531ce069e7ed2f41363356fa1d0eed0b3"
+    },
+    {
+      "path": "research/FARM/remote/eval_runC.py",
+      "source": "workstation/FARM/remote/eval_runC.py",
+      "source_sha256": "5ac72371fe1b18e6e940734297396e6ba129a613a9519792947a2d9e652dc76f"
+    },
+    {
+      "path": "research/FARM/remote/progress.sh",
+      "source": "workstation/FARM/remote/progress.sh",
+      "source_sha256": "a499f03adace7843202ff7460b2b4e613c55abe59d5c16a41949ae588fd1d733"
+    },
+    {
+      "path": "research/FARM/remote/watchdog.sh",
+      "source": "workstation/FARM/remote/watchdog.sh",
+      "source_sha256": "8bfffcfef2403b81ae4afc59df3f66bb656a6b2e55f2ce8fc44c10324d0e1b68"
+    },
+    {
+      "path": "research/FARM/remote/split_data_dedup.py",
+      "source": "workstation/FARM/remote/split_data_dedup.py",
+      "source_sha256": "2d188c75270906b9e144bb75c0a1501efaa08d97a5b14216f654d45ea72fa03c"
+    },
+    {
+      "path": "research/FARM/remote/ab_planner_query.py",
+      "source": "workstation/FARM/remote/ab_planner_query.py",
+      "source_sha256": "414433590b6b4c07443b4289cf3a078127460719fd73a7e3884cff7a7c0a1d52"
+    },
+    {
+      "path": "research/FARM/remote/mine_negatives.py",
+      "source": "workstation/FARM/remote/mine_negatives.py",
+      "source_sha256": "52d41e56a9cc68e0a9d6f9c6490bb1b33bd583806b127d6238d445d49eb67c78"
+    },
+    {
+      "path": "research/FARM/remote/run_job.sh",
+      "source": "workstation/FARM/remote/run_job.sh",
+      "source_sha256": "06ecf302f70204ca39c1b530b7b352e2e38735f7e01bd54d3a2c5cb0f1b7f662"
+    },
+    {
+      "path": "research/FARM/remote/compare_all.py",
+      "source": "workstation/FARM/remote/compare_all.py",
+      "source_sha256": "cec8e0766b52598d75a373f7d857e0970ef255a5588f52ef81472d6eaf3a318f"
+    },
+    {
+      "path": "research/FARM/remote/tests_wiring/test_wiring.py",
+      "source": "workstation/FARM/remote/tests_wiring/test_wiring.py",
+      "source_sha256": "28bab4a78d43fd441c79e6107cfcd0412dbb68aee2ea1bc55fc7803995bb0caa"
+    },
+    {
+      "path": "research/FARM/remote/tests_wiring/conftest.py",
+      "source": "workstation/FARM/remote/tests_wiring/conftest.py",
+      "source_sha256": "58e60989dbfad51021732bd58d354cb131d3f27e900ed1f1da04a898bafd53e0"
+    },
+    {
+      "path": "research/FARM/remote/wiring/patch_wiring.py",
+      "source": "workstation/FARM/remote/wiring/patch_wiring.py",
+      "source_sha256": "55a43a507f3661de9a0e9557585a7fcc5ceaf428bfab35983359c3b5de6aaa95"
+    }
+  ],
+  "release_name": "final_update"
+}

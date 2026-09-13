@@ -1,0 +1,8 @@
+# Additional dependencies for research/FARM/agents and rag.
+-r requirements-training.txt
+qdrant-client==1.19.0
+langgraph==1.2.11
+langchain-ollama==1.1.0
+pydantic==2.13.4
+python-dotenv
+tqdm

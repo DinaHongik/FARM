@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the FARM manuscript when using this code or the released examples."
+title: "FARM: Field-Aware Resolution Model for Intelligent Trigger-Action Automation"
+version: 2.0.1
+date-released: 2026-09-13
+repository-code: "https://github.com/DinaHongik/FARM"
+type: software
+authors:
+  - family-names: Badalov
+    given-names: Khusrav
+    orcid: "https://orcid.org/0009-0009-6906-919X"
+  - family-names: Yoon
+    given-names: Young
+    orcid: "https://orcid.org/0000-0002-5249-2823"

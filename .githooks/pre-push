@@ -1,0 +1,8 @@
+#!/bin/sh
+set -eu
+case "$2" in
+  https://github.com/DinaHongik/FARM|https://github.com/DinaHongik/FARM.git|git@github.com:DinaHongik/FARM.git) ;;
+  *) echo 'FARM release pushes must target DinaHongik/FARM.' >&2; exit 1 ;;
+esac
+cd "$(git rev-parse --show-toplevel)"
+python3 scripts/verify_release.py

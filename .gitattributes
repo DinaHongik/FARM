@@ -1,1 +1,4 @@
-results/*.json filter=lfs diff=lfs merge=lfs -text
+* text=auto
+# Preserve recovered sources byte-for-byte, including
+# historical whitespace and line endings recorded in their SHA-256 manifests.
+research/** -text -whitespace

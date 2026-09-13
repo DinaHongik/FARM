@@ -1,0 +1,17 @@
+# Release provenance
+
+Version 2.0.1 (`final_update`) contains FARM code recovered from the local research checkout and DGX, public examples, reproduction guides, and reported benchmark results. [SOURCE_MANIFEST.json](SOURCE_MANIFEST.json) identifies each retained recovered file and records its original SHA-256 checksum. For files present on both machines, the newer file modification time selected the copy; this is a source recovery rule, not a claim that every historical experiment succeeded.
+
+The latest completed binding run found on DGX was `binding_8192_direct`, using the three configuration workflows, thinking disabled, and an 8,192-token per-call limit. Its status reported completion and replay validation accounted for 450 terminal records. Its separate output-completion gate reported failures; completion does not imply all generated responses were valid or correct. Larger-token variants stopped during smoke checks. No DGX accuracy aggregates are used as the paper's replacement results.
+
+The release includes the corrected `20260905-controlled-six-training` and `20260905-strong-validation` source trees, including files absent from the original local Git checkout. It preserves earlier rounds and original FARM training/retrieval/agent modules. Redundant worker copies, virtual environments, third-party simulator trees, full datasets, private annotations, model weights, logs, and raw run records are excluded.
+
+The portable `farm_release` package adapts the completed binding workflow with relative imports and public CLI/provider adapters. It also rejects a malformed non-string ingredient slug as a validation error rather than crashing. The independent configuration contract remains byte-identical to the recovered source. The seven-call limits, shared initial FARM draft, and checker/repair logic remain as in the completed workflow.
+
+Experiment sources are organized under `research/FARM/experiments/`; script, test, guide, and provenance paths use this layout. The stronger holdout scripts resolve FARM relative to the repository instead of the original absolute DGX path. The source manifest retains original file checksums and release checksums for adapted files. Source paths are normalized to the release layout. These packaging edits do not alter the scoring equations or frozen population rules.
+
+The benchmark values in the README were transcribed from the authors' reported results. Manuscript sources, table TeX snapshots, PDFs, and manuscript/rebuttal authoring scripts are excluded from the current code release. The release verifier rejects manuscript artifacts even if they are force-added to Git.
+
+The binding aggregate rates and four updated generation-quality rows are recorded in `docs/reported_metrics.json`. They are author-reported results, not independently replayed by this release. Hardware or private runs beyond the supplied result provenance are not inferred. In particular, the release does not attach the earlier 150-case experiment's denominators to the author-reported binding re-evaluation.
+
+The 100 public IFTTT examples are actual applet requests selected from Dataset-v2, with a deterministic service-pair sampling rule recorded in `data/manifest.json`. The user authorized this selected subset for release. Full source records, usage counts, ingredient example values, and all unselected applets are omitted. Field-binding gold is not invented. For full data, contact Young Yoon at young.yoon@hongik.ac.kr.
